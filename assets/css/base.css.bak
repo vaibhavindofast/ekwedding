@@ -1,0 +1,12 @@
+@import url("../library/bootstrap/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,400;1,600&display=swap');
+@import url("../css/bootstrap-dropdownhover.min.css");
+@import url("../css/bootstrap.min.css");
+@import url("../css/animate.min.css");
+@import url("../css/magnific-popup.css");
+@import url("../css/datepicker.css");
+@import url("../css/select2.min.css");
+@import url("../css/font-awesome.min.css");
+@import url("../css/owl.carousel.min.css");
+@import url("../css/jquery-ui.min.css");
+@import url("../css/style.css");

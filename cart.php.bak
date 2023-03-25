@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]>
+-->
+<html lang="en">
+    <!-- <![endif]-->
+    <!-- head -->
+    <head>
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <!-- Basic Page Needs
+        ================================================== -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <!-- Specific Meta
+        ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content="EkWedding">
+        <meta name="keywords" content="EkWedding">
+        <meta name="author" content="EkWedding">
+        <meta name="MobileOptimized" content="320" />
+        
+        <!-- Titles
+        ================================================== -->
+        <title>EkWedding</title>
+
+        <!-- Favicons
+        ================================================== -->
+        <link rel="icon" href="assets/images/favicon.png" type="image/png">
+        <link rel="icon" href="assets/images/favicon.ico">
+
+        <!-- CSS ( Bootstrap + Owlcarouses + Fontawesome + Animate + Select2 + Custom Style )
+        ======================================================================================= -->
+        <link href="assets/css/base.css" rel="stylesheet">
+
+        <style>
+		.mr-2{
+  margin-right: 20px;
+}
+
+.divTable{
+	display: table;
+	width: 100%;
+}
+.rowTable {
+	display: table-row;
+}
+.divTableHeading {
+	display: table-header-group;
+}
+.divTableCol, .divTableHead {
+	border-bottom: 1px solid #eee;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+
+
+
+
+
+        </style>
+    </head>
+    <!-- end head -->
+    <!--body start-->
+    <body>    
+
+  <?php include('header.php')?>
+    <!--  Ekwedding top -->
+
+    <!-- =============================
+       *
+       *   Page Content Start
+       *
+      =============================== -->
+    <!--  Page Breadcrumbs Start -->
+    <section class="breadcrumbs-page">
+        <div class="container">
+            <h1>Checkout</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:"><i class="fa fa-home"></i></a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Sagun Banquet Hall Booking Price List</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+    
+   <main id="body-content">
+
+        <!-- Pricing Table Start -->
+        <section class="wide-tb-70">
+<div class="container">
+    <div class="divTable div-hover section-title">
+        
+            <div class="rowTable bg-primary text-white pb-2">
+                <div class="divTableCol">Vnedor Name</div>
+                <div class="divTableCol">Offer</div>
+                <div class="divTableCol">Price</div>
+                <div class="divTableCol">Total</div>
+                <div class="divTableCol">Actions</div>
+            </div>
+        
+        
+            <div class="rowTable">
+                <div class="divTableCol">
+                    <div class="media">
+                        <a class=" pull-left mr-2 ml-0" href="#"> <img class="img-fluid" src="assets/images/wedding_listing_1.jpg" style="width: 92px; height: 72px; margin-left: 0" /></a>
+                        <div class="media-body">
+                            <h5 class="media-heading"> <a href="#">Sagun Banquet Hall</a></h5>
+                            <span>Status: </span><span class="text-warning"><strong>Pending request</strong></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="divTableCol"><strong class="label label-warning">30%</strong></div>
+                <div class="divTableCol"><strong><i class="fa fa-rupee"></i> 302,500</strong></div>
+                <div class="divTableCol"><strong><i class="fa fa-rupee"></i> 201,400</strong></div>
+                <div class="divTableCol">
+                    <button type="button" class="btn btn-danger"><span class="fa fa-remove"></span> Remove</button>
+                </div>
+            </div>
+
+            <div class="rowTable">
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"><h5>Subtotal</h5></div>
+                <div class="divTableCol">
+                    <h5><strong><i class="fa fa-rupee"></i> 201,400</strong></h5>
+                </div>
+            </div>
+            <div class="rowTable">
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"><h5>Discount on Mrp</h5></div>
+                <div class="divTableCol">
+                    <h5><strong><i class="fa fa-rupee"></i> 201,400</strong></h5>
+                </div>
+            </div>
+            <div class="rowTable">
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"><h3>Total</h3></div>
+                <div class="divTableCol">
+                    <h3><strong><i class="fa fa-rupee"></i> 201,400</strong></h3>
+                </div>
+            </div>
+            <div class="rowTable">
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol"></div>
+                <div class="divTableCol">
+                    <button type="button" class="btn btn-default col-6"></span> Total Amount </button>
+                </div>
+                <div class="divTableCol">
+                    <button type="button" class="btn btn-success">Place Order</span></button>
+                </div>
+            </div>        
+    </div>
+</div>
+        </section>
+        <!-- Questions Might You Have End -->
+    
+    </main>
+ <?php include('footer.php')?>
+
+    <!-- All The JS Files
+      ================================================== -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bootstrap-dropdownhover.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>  
+    <script src="assets/js/isotope.pkgd.min.js"></script> 
+    <script src="assets/js/datepicker.js"></script>    
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/select2.min.js"></script>
+</body>
+</html>
