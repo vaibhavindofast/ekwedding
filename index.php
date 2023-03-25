@@ -54,6 +54,100 @@
     
     <main id="body-content">
 
+<div class="">
+<div id="category-selaction" class="container-fluid padt-24 mpt-16 cB-container position-relative">
+  <div class="categoryBox">
+    <div class="">
+        <a class="hm-vndr-icn cB-item" id="category-pho" data-url="/wedding-photographers" href="/wedding-photographers">
+          <div>
+            <i class="ic ic-IC_Photographer"></i>
+          </div>
+          <h3>Photographers</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-mua" data-url="/bridal-makeup-artists" href="/bridal-makeup-artists">
+          <div>
+            <i class="ic ic-IC_Make_Up_Artist"></i>
+          </div>
+          <h3>Makeup Artists</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-dec" data-url="/wedding-decorators" href="/wedding-decorators">
+          <div>
+            <i class="ic ic-IC_Decorator"></i>
+          </div>
+          <h3>Decorators</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-meh" data-url="/mehndi-artists" href="/mehndi-artists">
+          <div>
+            <i class="ic ic-IC_MehendiArtist"></i>
+          </div>
+          <h3>Mehndi Artists</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-pln" data-url="/wedding-planners" href="/wedding-planners">
+          <div>
+            <i class="ic ic-IC_WeddingPlanner"></i>
+          </div>
+          <h3>Planners</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-ven" data-url="/wedding-venues" href="/wedding-venues">
+          <div>
+            <i class="ic ic-IC_Venue"></i>
+          </div>
+          <h3>Venues</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-brd" data-url="/wedding-wear" href="/wedding-wear">
+          <div>
+            <i class="ic ic-IC_BridalWear"></i>
+          </div>
+          <h3>Wedding Wear</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-inv" data-url="/wedding-cards" href="/wedding-cards">
+          <div>
+            <i class="ic ic-IC_Invitation"></i>
+          </div>
+          <h3>Invitation Designers</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-cho" data-url="/choreographers" href="/choreographers">
+          <div>
+            <i class="ic ic-IC_Chorographer"></i>
+          </div>
+          <h3>Choreographers</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-cat" data-url="/catering" href="/catering">
+          <div>
+            <i class="ic ic-IC_Caterer"></i>
+          </div>
+          <h3>Caterers</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-jwl" data-url="/wedding-jewellery" href="/wedding-jewellery">
+          <div>
+            <i class="ic ic-IC_Jewellery"></i>
+          </div>
+          <h3>Jewellery</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-hny" data-url="/honeymoon-tour-travels" href="/honeymoon-tour-travels">
+          <div>
+            <i class="ic ic-IC_Honeymoon"></i>
+          </div>
+          <h3>Honeymoon</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-ent" data-url="/wedding-entertainment" href="/wedding-entertainment">
+          <div>
+            <i class="ic ic-IC_Entertainment"></i>
+          </div>
+          <h3>Entertainment</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-dj" data-url="/dj" href="/dj">
+          <div>
+            <i class="ic ic-IC_Dj"></i>
+          </div>
+          <h3>DJs</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-pnd" data-url="/wedding-pandits" href="/wedding-pandits">
+          <div>
+            <i class="ic ic-IC_Pandit"></i>
+          </div>
+          <h3>Pandits</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-gft" data-url="/wedding-gifts" href="/wedding-gifts">
+          <div>
+            <i class="ic ic-IC_Gift"></i>
+          </div>
+          <h3>Gifts</h3>
+</a>        <a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
+          <div>
+            <i class="ic ic-IC_Car"></i>
+          </div>
+          <h3>Cars</h3>
+</a>    </div>
+  </div>
+</div>
+</div>
+
         <!-- Wedding Dir Features Start -->
         <section class="wide-tb-40">
             <div class="container">
@@ -379,8 +473,14 @@
                         </div>
                     </div>
                     <!-- Vendor Listing Wrap -->
-
+               
                 </div>
+                <div class="col-md-12">
+                        <div class="text-center">
+                            <a href="#" class="btn btn-default btn-rounded text-uppercase btn-lg">View More </a>
+                            <a href="#" class="btn btn-default btn-rounded text-uppercase btn-lg">lass More </a>
+                        </div>
+                    </div>
             </div>
         </section>
         <!-- Top Wedding Vendors End -->

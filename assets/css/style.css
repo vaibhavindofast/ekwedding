@@ -6672,3 +6672,82 @@ footer .widget-listing li {
   margin-left: 7px;
   font-size: 100%;
 }
+
+
+.categoryBox {
+  padding: 24px 24px 0;
+  border-radius: 16px;
+  box-shadow: 1px 2px 6px 0 rgba(0,0,0,0.16);
+  background-color: #ffffff;
+  display: inline-block;
+  position: relative;
+  overflow-x: auto;
+  transition: 0.2s all;
+  max-width: 100%;
+}
+.padt-24 {
+  padding-top: 24px;
+}
+.position-relative {
+  position: relative !important;
+}
+.categoryBox>div {
+  display: inline-flex;
+}
+a:-webkit-any-link {
+  text-decoration: none;
+  color: unset;
+}
+.cB-item {
+  display: inline-block;
+  text-align: center;
+  width: 104px;
+  vertical-align: top;
+  margin-right: 16px;
+  padding-bottom: 24px;
+}
+.cB-item div {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  box-shadow: 1px 2px 6px 0 rgba(0,0,0,0.1), inset 1px 2px 10px 0 #fff, inset -1px -2px 6px 0 rgba(0,0,0,0.1);
+  border: 0.5px solid #ebebeb;
+  background-color: #efe3e5;
+  margin: auto;
+  position: relative;
+}
+.cB-item div .ic {
+  font-size: 32px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background: linear-gradient(90deg, #fa4a6f, #594454);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cB-item h3 {
+  padding-top: 10px;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+@font-face{font-family:'shaadisaga_2019_icons';src:url(../fonts/shaadisaga_2019_icons-d034ad4ccb1f697b250e17d2e295257a3ae2d39466d22f712310ba64ac8eb1d2.eot);src:url(../fonts/shaadisaga_2019_icons-d034ad4ccb1f697b250e17d2e295257a3ae2d39466d22f712310ba64ac8eb1d2.eot) format("embedded-opentype"),url(../fonts/shaadisaga_2019_icons-5ad860dcb7a5489c4cc3c9409e1c0b10ee8d611fe5165d6a715a44c221c210f3.ttf) format("truetype"),url(../fonts/shaadisaga_2019_icons-52a76a768c580bebc6d4b9430407610602a317e5ce24de176346fd256fb03e0d.woff) format("woff"),url(../fonts/shaadisaga_2019_icons-0de2731851c1368119db95c662ea3907f1133fafdc39fb46f92fbd63e9e1bb78.svg) format("svg");font-weight:normal;font-style:normal;font-display:swap}
+
+
+
+
+[class^="ic-"], [class*=" ic-"] {
+  font-family: 'shaadisaga_2019_icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.ic-ic-add:before{content:"\e936"}.ic-ic-album:before{content:"\e937"}.ic-ic-bar:before{content:"\e938"}.ic-ic-bell:before{content:"\e939"}.ic-ic-blog:before{content:"\e93a"}.ic-ic-brd:before{content:"\e93b"}.ic-ic-bride:before{content:"\e93c"}.ic-ic-call-filled:before{content:"\e93d"}.ic-ic-checklist-selected:before{content:"\e93e"}.ic-ic-checklist:before{content:"\e940"}.ic-ic-cho:before{content:"\e941"}.ic-ic-circle-filled:before{content:"\e942"}.ic-ic-city:before{content:"\e945"}.ic-ic-contact-book:before{content:"\e946"}.ic-ic-date:before{content:"\e948"}.ic-ic-dec:before{content:"\e949"}.ic-ic-dj:before{content:"\e94a"}.ic-ic-edit:before{content:"\e94b"}.ic-ic-envelope-selected:before{content:"\e94c"}.ic-ic-envelope:before{content:"\e94e"}.ic-ic-filter:before{content:"\e94f"}.ic-ic-grm:before{content:"\e950"}.ic-ic-groom:before{content:"\e951"}.ic-ic-hashtag:before{content:"\e952"}.ic-ic-help-support:before{content:"\e953"}.ic-ic-help:before{content:"\e955"}.ic-ic-ideas-selected:before{content:"\e956"}.ic-ic-ideas:before{content:"\e957"}.ic-ic-info:before{content:"\e959"}.ic-ic-internet:before{content:"\e95a"}.ic-ic-inv:before{content:"\e95b"}.ic-ic-jwl:before{content:"\e95c"}.ic-ic-logout:before{content:"\e95d"}.ic-ic-love-selected:before{content:"\e95e"}.ic-ic-love:before{content:"\e95f"}.ic-ic-meh:before{content:"\e970"}.ic-ic-more:before{content:"\e971"}.ic-ic-mua:before{content:"\e972"}.ic-ic-other-options:before{content:"\e973"}.ic-ic-pho:before{content:"\e974"}.ic-ic-photo:before{content:"\e975"}.ic-ic-pick-location:before{content:"\e976"}.ic-ic-play-video:before{content:"\e977"}.ic-ic-pln:before{content:"\e978"}.ic-ic-real-wedding:before{content:"\e979"}.ic-ic-save-selected:before{content:"\e97a"}.ic-ic-save:before{content:"\e97b"}.ic-ic-share:before{content:"\e97c"}.ic-ic-square-filled:before{content:"\e97d"}.ic-ic-star-filled:before{content:"\e97e"}.ic-ic-star-half-filled:before{content:"\e97f"}.ic-ic-star-unfilled:before{content:"\e980"}.ic-ic-subtract:before{content:"\e981"}.ic-ic-terms:before{content:"\e982"}.ic-ic-triangle-filled:before{content:"\e983"}.ic-ic-ven:before{content:"\e984"}.ic-ic-vendors-selected:before{content:"\e985"}.ic-ic-vendors:before{content:"\e986"}.ic-ic-vid:before{content:"\e987"}.ic-ic-video:before{content:"\e988"}.ic-ic-wedding-details:before{content:"\e989"}.ic-ic-videomeet:before{content:"\e933"}.ic-ic-safetyassured:before{content:"\e934"}.ic-ic-flexisure:before{content:"\e935"}.ic-ic-share-fb:before{content:"\e92c"}.ic-ic-share-pinterest:before{content:"\e92e"}.ic-ic-share-twitter:before{content:"\e930"}.ic-ic-share-whatsapp:before{content:"\e931"}.ic-ic-tiktok:before{content:"\e932"}.ic-ic-contact-filled:before{content:"\e92a"}.ic-ic-contact:before{content:"\e92b"}.ic-ic-discussion:before{content:"\e923"}.ic-ic-excellence:before{content:"\e924"}.ic-ic-presentation:before{content:"\e925"}.ic-ic-strength:before{content:"\e926"}.ic-ic-trusted-vendors:before{content:"\e927"}.ic-ic-wedding-inspiration:before{content:"\e928"}.ic-ic-pin-filled:before{content:"\e82a"}.ic-ic-bestdeal:before{content:"\e96b"}.ic-ic-quote:before{content:"\e96c"}.ic-ic-quoteonphone:before{content:"\e96d"}.ic-ic-requirements:before{content:"\e96e"}.ic-ic-rm:before{content:"\e96f"}.ic-new:before{content:"\e909";color:#fa4a6f}.ic-dot-filled:before{content:"\e908"}.ic-email:before{content:"\e90d"}.ic-explore:before{content:"\e90e"}.ic-facebook:before{content:"\e90f"}.ic-gps:before{content:"\e912"}.ic-heart:before{content:"\e914"}.ic-location:before{content:"\e916"}.ic-rupee:before{content:"\e91d"}.ic-IC_BridalWear:before{content:"\e929"}.ic-IC_Chorographer:before{content:"\e92d"}.ic-IC_Decorator:before{content:"\e92f"}.ic-IC_Invitation:before{content:"\e93f"}.ic-IC_Make_Up_Artist:before{content:"\e943"}.ic-IC_MehendiArtist:before{content:"\e944"}.ic-IC_Photographer:before{content:"\e947"}.ic-IC_Star:before{content:"\e94d"}.ic-IC_Venue:before{content:"\e954"}.ic-IC_WeddingPlanner:before{content:"\e958"}.ic-IC_Videographer:before{content:"\e960"}.ic-IC_Caterer:before{content:"\e991"}.ic-IC_Jewellery:before{content:"\e98b"}.ic-IC_Honeymoon:before{content:"\e98a"}.ic-IC_Gift:before{content:"\e98e"}.ic-IC_Entertainment:before{content:"\e992"}.ic-IC_Pandit:before{content:"\e98d"}.ic-IC_Car:before{content:"\e990"}.ic-IC_Dj:before{content:"\e94a"}.ic-briefcase:before{content:"\e919"}.ic-edit-2:before{content:"\e91a"}.ic-file-text:before{content:"\e91b"}.ic-home:before{content:"\e91c"}.ic-more-vertical:before{content:"\e91e"}.ic-phone:before{content:"\e91f"}.ic-user-check:before{content:"\e920"}.ic-user:before{content:"\e921"}.ic-users:before{content:"\e922"}.ic-filter:before{content:"\e915"}.ic-share-2:before{content:"\e917"}.ic-star:before{content:"\e918"}.ic-check-circle:before{content:"\e910"}.ic-circle:before{content:"\e911"}.ic-disc:before{content:"\e913"}.ic-arrow-down:before{content:"\e900"}.ic-arrow-left:before{content:"\e901"}.ic-arrow-right:before{content:"\e902"}.ic-arrow-up:before{content:"\e903"}.ic-check-square:before{content:"\e904"}.ic-delete:before{content:"\e905"}.ic-heart1:before{content:"\e906"}.ic-info:before{content:"\e907"}.ic-plus:before{content:"\e90a"}.ic-square:before{content:"\e90b"}.ic-x:before{content:"\e90c"}.ic-ic-assured-filled:before{content:"\e961"}.ic-check:before{content:"\e962"}.ic-chevron-down:before{content:"\e963"}.ic-chevron-left:before{content:"\e964"}.ic-chevron-right:before{content:"\e965"}.ic-chevron-up:before{content:"\e966"}.ic-gift:before{content:"\e967"}.ic-map-pin:before{content:"\e969"}.ic-menu:before{content:"\e96a"}.ic-search1:before{content:"\e968"}.ic-glass:before{content:"\e9a0"}.ic-google:before{content:"\ea88"}.ic-facebook2:before{content:"\ea91"}.ic-instagram:before{content:"\ea92"}.ic-whatsapp:before{content:"\ea93"}.ic-twitter:before{content:"\ea96"}.ic-linkedin:before{content:"\eac9"}.ic-pinterest:before{content:"\ead1"}.ic-play3:before{content:"\ea1c"}.ic-appleinc:before{content:"\eabe"}
