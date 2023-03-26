@@ -364,11 +364,11 @@
                     <h1>Top Wedding Vendors</h1>
                     <p>Discover local vendors to bring your wedding to life.</p>
                 </div>
-                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2">
+                <div id="myList" class="row row-cols-1 row-cols-lg-3 row-cols-md-2" >
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -386,7 +386,7 @@
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -404,7 +404,7 @@
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -422,7 +422,7 @@
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -440,7 +440,7 @@
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -458,7 +458,7 @@
 
                     <!-- Vendor Listing Wrap -->
                     <div class="col">
-                        <div class="vendor-listing-wrap">                                    
+                    <div class="vendor-listing-wrap">                                    
                             <div class="vendor-img">
                                 <div class="overlay-box">
                                     <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
@@ -473,12 +473,66 @@
                         </div>
                     </div>
                     <!-- Vendor Listing Wrap -->
+
+                             <!-- Vendor Listing Wrap -->
+                             <div class="col">
+                    <div class="vendor-listing-wrap">                                    
+                            <div class="vendor-img">
+                                <div class="overlay-box">
+                                    <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
+                                </div>
+                                <div class="vendor-icon"><i class="weddingdir_fashion"></i></div>
+                                <a href="#"><img src="assets/images/vendor_img_5.jpg" alt=""></a>
+                            </div>
+                            <div class="content text-white">
+                                <h3><a href="#">Orange Inn Banquet</a></h3>
+                                <i class="fa fa-map-marker"></i> Kankarbagh, Patna
+                            </div>                               
+                        </div>
+                    </div>
+                    <!-- Vendor Listing Wrap -->
+
+                             <!-- Vendor Listing Wrap -->
+                             <div class="col">
+                    <div class="vendor-listing-wrap">                                    
+                            <div class="vendor-img">
+                                <div class="overlay-box">
+                                    <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
+                                </div>
+                                <div class="vendor-icon"><i class="weddingdir_fashion"></i></div>
+                                <a href="#"><img src="assets/images/vendor_img_5.jpg" alt=""></a>
+                            </div>
+                            <div class="content text-white">
+                                <h3><a href="#">Orange Inn Banquet</a></h3>
+                                <i class="fa fa-map-marker"></i> Kankarbagh, Patna
+                            </div>                               
+                        </div>
+                    </div>
+                    <!-- Vendor Listing Wrap -->
+
+                             <!-- Vendor Listing Wrap -->
+                             <div class="col">
+                    <div class="vendor-listing-wrap">                                    
+                            <div class="vendor-img">
+                                <div class="overlay-box">
+                                    <a href="#" class="btn btn-default btn-rounded btn-sm">View Details</a> 
+                                </div>
+                                <div class="vendor-icon"><i class="weddingdir_fashion"></i></div>
+                                <a href="#"><img src="assets/images/vendor_img_5.jpg" alt=""></a>
+                            </div>
+                            <div class="content text-white">
+                                <h3><a href="#">Orange Inn Banquet</a></h3>
+                                <i class="fa fa-map-marker"></i> Kankarbagh, Patna
+                            </div>                               
+                        </div>
+                    </div>
+                    <!-- Vendor Listing Wrap -->
                
                 </div>
                 <div class="col-md-12">
                         <div class="text-center">
-                            <a href="#" class="btn btn-default btn-rounded text-uppercase btn-lg">View More </a>
-                            <a href="#" class="btn btn-default btn-rounded text-uppercase btn-lg">lass More </a>
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="loadMore">View More </button>
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="showLess">less More </button>
                         </div>
                     </div>
             </div>
@@ -493,18 +547,9 @@
                     <p class="text-light">All things vendors, all in one place</p>
                 </div>
                 <div class="row justify-content-space-between">    
-                    <div class="col-lg-3 col-md-4 mx-auto d-lg-block d-none">
-                        <div class="popular-locations">                            
-                            <div class="overlay-box">
-                                <h3><a href="#">Ranchi <span>129 Vendors</span></a></h3>
-                                <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
-                            </div>
-                            <img src="assets/images/location_img_1.jpg" alt="">
-                        </div>                        
-                    </div>                
-                    <div class="col-lg-9">
-                        <div class="row h-100">
-                            <div class="col-md-6 col-lg-4 mb-0">
+                             
+                  
+                            <div class=" col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Gaya <span>68 Vendors</span></a></h3>
@@ -513,7 +558,7 @@
                                     <img src="assets/images/location_img_2.jpg" alt="">
                                 </div>
                             </div>
-                            <div class="col-md-6 col-lg-4 mt-auto order-lg-last mb-0">
+                            <div class=" col-lg-4 ">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Samastipur <span>141 Vendors</span></a></h3>
@@ -522,7 +567,7 @@
                                     <img src="assets/images/location_img_5.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-8 col-md-6  mb-0">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Patna <span>135 Vendors</span></a></h3>
@@ -531,7 +576,7 @@
                                     <img src="assets/images/location_img_3.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-8 col-md-6 mt-lg-auto mb-0">
+                            <div class="col-lg-4 ">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -543,9 +588,14 @@
                             
 
                         </div>
+           
+
+                <div class="col-md-12">
+                        <div class="text-center">
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="loadMore">View More </button>
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="showLess">less More </button>
+                        </div>
                     </div>
-                    
-                </div>
             </div>
         </section>
         <!-- Popular locations End -->
@@ -1137,5 +1187,26 @@
     <script src="assets/js/datepicker.js"></script>    
     <script src="assets/js/script.js"></script>
     <script src="assets/js/select2.min.js"></script>
+
+
+     <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+    <script>
+       
+
+$(document).ready(function () {
+    size_li = $("#myList .col").size();
+    x=3;
+    $('#myList .col:lt('+x+')').show();
+    $('#loadMore').click(function () {
+        x= (x+5 <= size_li) ? x+3 : size_li;
+        $('#myList .col:lt('+x+')').show();
+    });
+    $('#showLess').click(function () {
+        x=(x-5<0) ? 3 : x-3;
+        $('#myList .col').not(':lt('+x+')').hide();
+    });
+});
+    </script>
 </body>
 </html>
