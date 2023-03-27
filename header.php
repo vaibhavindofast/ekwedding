@@ -75,8 +75,8 @@
                        
      <li class="nav-item"><a class="nav-link" href="#">Real Wedding</a></li>
      <li class="nav-item"><a class="nav-link" href="#">Vendors</a></li>
-     <li class="nav-item"><a class="nav-link" href="#">Blog</a></li>
-     <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
+     <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
+     <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
                     </ul>
                     <!-- Main Navigation End -->
                 </div>

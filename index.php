@@ -546,7 +546,7 @@
                     <h1 class="text-light">Popular locations</h1>
                     <p class="text-light">All things vendors, all in one place</p>
                 </div>
-                <div class="row justify-content-space-between">    
+                <div class="row justify-content-space-between" id="mylocation">    
                              
                   
                             <div class=" col-lg-4 mb-0">
@@ -573,7 +573,7 @@
                                         <h3><a href="#">Patna <span>135 Vendors</span></a></h3>
                                         <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
                                     </div>
-                                    <img src="assets/images/location_img_3.jpg" alt="">
+                                    <img src="assets/images/location_img_2.jpg" alt="">
                                 </div> 
                             </div>
                             <div class="col-lg-4 ">
@@ -582,18 +582,63 @@
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
                                         <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
                                     </div>
-                                    <img src="assets/images/location_img_4.jpg" alt="">
+                                    <img src="assets/images/location_img_5.jpg" alt="">
                                 </div> 
                             </div>
-                            
+                            <div class="col-lg-4 ">
+                                <div class="popular-locations">
+                                    <div class="overlay-box">
+                                        <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
+                                        <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <img src="assets/images/location_img_2.jpg" alt="">
+                                </div> 
+                            </div>
+                            <div class="col-lg-4 ">
+                                <div class="popular-locations">
+                                    <div class="overlay-box">
+                                        <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
+                                        <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <img src="assets/images/location_img_5.jpg" alt="">
+                                </div> 
+                            </div>
+
+                            <div class="col-lg-4 ">
+                                <div class="popular-locations">
+                                    <div class="overlay-box">
+                                        <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
+                                        <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <img src="assets/images/location_img_5.jpg" alt="">
+                                </div> 
+                            </div>
+                            <div class="col-lg-4 ">
+                                <div class="popular-locations">
+                                    <div class="overlay-box">
+                                        <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
+                                        <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <img src="assets/images/location_img_2.jpg" alt="">
+                                </div> 
+                            </div>
+                            <div class="col-lg-4 ">
+                                <div class="popular-locations">
+                                    <div class="overlay-box">
+                                        <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
+                                        <a class="iconlink" href="#"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <img src="assets/images/location_img_5.jpg" alt="">
+                                </div> 
+                            </div>
 
                         </div>
            
 
                 <div class="col-md-12">
                         <div class="text-center">
-                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="loadMore">View More </button>
-                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="showLess">less More </button>
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="loadlocation">View More </button>
+                            <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="showlocation">less More </button>
                         </div>
                     </div>
             </div>
@@ -1205,6 +1250,21 @@ $(document).ready(function () {
     $('#showLess').click(function () {
         x=(x-5<0) ? 3 : x-3;
         $('#myList .col').not(':lt('+x+')').hide();
+    });
+});
+
+
+$(document).ready(function () {
+    size_li = $("#mylocation .popular-locations").size();
+    y=3;
+    $('#mylocation .popular-locations:lt('+y+')').show();
+    $('#loadlocation').click(function () {
+        y= (y+5 <= size_li) ? y+3 : size_li;
+        $('#mylocation .popular-locations:lt('+y+')').show();
+    });
+    $('#showlocation').click(function () {
+        y=(y-5<0) ? 3 : y-3;
+        $('#mylocation .popular-locations').not(':lt('+y+')').hide();
     });
 });
     </script>

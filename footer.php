@@ -168,7 +168,9 @@
 
                     <div class="col-md-auto col-12 copyrights-link ml-md-auto">
 
-                        <a href="javascript:">Home</a> | <a href="javascript:">About</a> | <a href="javascript:">Contact Us</a> | <a href="javascript:">Terms & Conditions</a> |   <a href="javascript:">Privacy Policy</a>  
+                        <a href="index.php">Home</a> | <a href="about.php">About</a> | <a href="Contact.php">Contact Us</a> | 
+                        <a href="terms&conditions.php">Terms & Conditions</a> |  
+                        <a href="privacypolicy.php">Privacy Policy</a>  
 
                     </div>
 

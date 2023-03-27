@@ -1498,7 +1498,7 @@ Background Color / Color
   right: 20px;
   z-index: 99;
   padding: 0;
-  background-color: #f8f8f8;
+  background-color: #f48f00;
   display: none;
   height: 50px;
   width: 50px;
@@ -1744,7 +1744,7 @@ header .btn {
   padding: 0;
 }
 .navbar-brand img {
-  height: 89px;
+  height: 106px;
 }
 .navbar {
   padding: 0 0.5rem;
@@ -1992,7 +1992,7 @@ header .btn {
   font-size: 1.313rem;
 }
 .slider-content .btn {
-  min-height: 48px;
+  min-height: 49px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
@@ -5008,6 +5008,7 @@ header .btn {
 .popular-locations {
   position: relative;
   overflow: hidden;
+  margin-bottom: 24px;
 }
 .popular-locations:hover .overlay-box {
   background: rgba(0, 174, 175, 0.9);
@@ -6189,7 +6190,7 @@ footer .widget-listing li {
 
 @media (max-width: 991.99px) {
   .navbar{
-    padding: 0.7rem 0.5rem;
+    padding: 3px 10px;
   }
   .navbar-expand-md .navbar-nav .nav-link, .navbar-expand-lg .navbar-nav .nav-link{
     padding: 0.6rem 0.4rem;
@@ -6580,7 +6581,7 @@ footer .widget-listing li {
 
 @media (max-width: 480px) {
   .navbar-brand img {
-    height: 40px;
+    height: 82px;
     margin: 0;
   }
 
@@ -6696,7 +6697,7 @@ footer .widget-listing li {
 }
 a:-webkit-any-link {
   text-decoration: none;
-  color: unset;
+  color: #fff;
 }
 .cB-item {
   display: inline-block;
@@ -6716,13 +6717,26 @@ a:-webkit-any-link {
   margin: auto;
   position: relative;
 }
+.blog-img{
+  width: 100px !important;
+  height:100px !important;
+  border-radius: 50% ;
+  box-shadow: 1px 2px 6px 0 rgba(0,0,0,0.1), inset 1px 2px 10px 0 #fff, inset -1px -2px 6px 0 rgba(0,0,0,0.1);
+  border: 0.5px solid #ebebeb;
+  background-color: #efe3e5;
+  margin: auto;
+  position: relative;
+}
+.blog-img img{
+  border-radius: 50%;
+}
 .cB-item div .ic {
   font-size: 32px;
   top: 50%;
   left: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  background: linear-gradient(90deg, #fa4a6f, #594454);
+  background: linear-gradient(90deg, #9d4e5e, #cd27a5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -6766,4 +6780,231 @@ a:-webkit-any-link {
 #showLess {
     color:#fff;
     cursor:pointer;
+}
+
+#mylocation .popular-locations{ display:none;
+}
+#loadlocation{
+    color:#fff;
+    cursor:pointer;
+}
+
+#showlocation {
+    color:#fff;
+    cursor:pointer;
+}
+.blog-banner{
+  background-image: url(../images/new/blog.jpg);
+  
+  background-size: cover;
+}
+.about-banner{
+  background-image: url(../images/new/banner-2.jpg);
+  
+  background-size: cover;
+}
+.contact-banner{
+  background-image: url(../images/new/banner-1.jpg);
+  
+  background-size: cover;
+ 
+}
+.bg-color-banner{
+  background-color: #00000080;
+  padding: 125px 0;
+}
+.bg-color-banner ul{
+  padding-left: 0;
+}
+.bg-color-banner ul li{
+list-style-type: none;
+display: inline-block;
+}
+.bg-color-banner h2{
+  color: #fff;
+}
+.bg-color-banner li{
+  color: #fff;
+}
+.bg-color-banner li a{
+  color: #d47c00;
+}
+.section-title {
+  z-index: 1;
+  position: relative;
+}
+.sub-title-two {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  display: inline-block;
+  color: #204ecf;
+  font-family: "Raleway", sans-serif;
+}
+.section-title h2 {
+  text-transform: capitalize;
+}
+.contact-info ul{
+padding-left: 0;
+}
+.contact-info ul li {
+  position: relative;
+  margin-bottom: 35px;
+  padding-left: 100px;
+  list-style-type: none;
+}
+.contact-info ul li .icon {
+  width: 72px;
+  height: 70px;
+  background-color: #f48f00;
+  border-radius: 3px;
+  position: absolute;
+  text-align: center;
+  left: 0;
+  font-size: 40px;
+  color: #fff;
+  transition: var(--transition);
+  top: 0;
+}
+.contact-info h3 {
+  font-size: 22px;
+}
+
+.contact-form {
+  background: white;
+  margin-top: -290px;
+  border-radius: 5px;
+  -webkit-transform: translateY(290px);
+  -ms-transform: translateY(290px);
+  transform: translateY(290px);
+}
+.review-form, .contact-form {
+  -webkit-box-shadow: 10px 0 60px rgba(138, 138, 138, 0.1);
+  box-shadow: 10px 0 60px rgba(138, 138, 138, 0.1);
+}
+.contact-form {
+  overflow: hidden;
+  padding: 35px;
+  margin-left: 15px;
+}
+input, select, textarea, .nice-select, .form-control {
+  width: 100%;
+  height: auto;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 10px 29px;
+  background: #f7f7f7;
+  font-family: "Raleway", sans-serif;
+  border: 1px solid #d4cbcb;
+}
+
+.contact-info ul li:hover .icon {
+  background-color: #204ecf;
+  color: #fff;
+}
+.pb-70{
+  padding-bottom: 70px !important;
+}
+
+.contact-info{
+  margin-bottom: 100px;
+
+}
+.about-us-banner img{
+  width: 100%;
+  border-radius: 7px;
+}
+.about-us-banner p{
+  font-size: 16px;
+}
+.bg-counter {
+  background-image: url(../images/new/counter-img.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  background-position: center;
+}
+.counter-color{
+  background-color:#0000009c;
+  padding: 60px 0 100px 0;
+  color: #fff;
+  margin-top: 41px;
+
+}
+.counter-color h1{
+  color: #fff;
+}
+.counter-color h2{
+  color: #fff;
+  margin-bottom: 30px;
+}
+.Inspiration-bg{
+  background-image: url(../images/new/aboutus_hero_3.jpg);
+  border-radius: 5px;
+  color: #fff;
+  padding-left: 10px;
+  margin: 50px 0;
+}
+.Inspiration-bg h2{
+  color: #fff;
+  margin-top: 144px;
+}
+.Inspiration-bg img{
+  width: 100%;
+  border-radius:0 5px 5px 0 ;
+}
+
+.margin-top{
+  margin-top: 133px;
+}
+@media (max-width: 767px){
+.wide-tb-120{
+padding-top: 0px;
+padding-bottom:20px;
+}
+.margin-top{
+  margin-top: 0;
+}
+.section-title h1{
+  font-size: 27px;
+}
+.contact-banner{
+  background-position: center !important;
+}
+.about-banner{
+  background-position: center !important;
+}
+.blog-banner{
+  background-position: center !important;
+}
+.Inspiration-bg h2{
+  margin-top: 30px;
+  padding-left: 20px;
+}
+.Inspiration-bg p{
+  padding-left: 20px;
+}
+.Inspiration-bg img{
+  border-radius: 0 0 5px 5px;
+}
+.Inspiration-bg{
+  padding-left: 0;
+}
+.Inspiration-bg p{
+  margin-bottom: 30px;
+}
+.contact-form{
+  padding: 20px;
+  margin-left: 0 !important;
+  margin-top: 0 !important;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  margin-bottom: 26px;
+}
+
+.contact-info{
+  margin-bottom:0px !important;
+
+}
 }
