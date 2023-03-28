@@ -257,81 +257,81 @@
           </div>
           <h3>Palace</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Rituals" href="/Rituals">
+<div class="blog-img">
+          <img src="assets/images/new/blog/36.jpg" alt="">
           </div>
           <h3>Rituals</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Cocktail" href="/Cocktail">
+<div class="blog-img">
+          <img src="assets/images/new/blog/37.jpg" alt="">
           </div>
           <h3>Cocktail Party</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Decorators" href="/Decorators">
+<div class="blog-img">
+          <img src="assets/images/new/blog/38.jpg" alt="">
           </div>
           <h3>Wedding Decorators</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Designs" href="/Designs">
+<div class="blog-img">
+          <img src="assets/images/new/blog/39.jpg" alt="">
           </div>
           <h3>Mehndi Designs</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Rings" href="/Rings">
+<div class="blog-img">
+          <img src="assets/images/new/blog/40.jpg" alt="">
           </div>
           <h3>Wedding Rings</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Beach" href="/Beach">
+<div class="blog-img">
+          <img src="assets/images/new/blog/41.jpg" alt="">
           </div>
           <h3>Beach</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Haldi" href="/Haldi">
+<div class="blog-img">
+          <img src="assets/images/new/blog/42.jpg" alt="">
           </div>
           <h3>Haldi</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Bridal" href="/Bridal">
+<div class="blog-img">
+          <img src="assets/images/new/blog/43.jpg" alt="">
           </div>
           <h3>Bridal Designers</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/South" href="/South">
+<div class="blog-img">
+          <img src="assets/images/new/blog/44.jpg" alt="">
           </div>
           <h3>South Indian</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Proposal" href="/Proposal">
+<div class="blog-img">
+          <img src="assets/images/new/blog/45.jpg" alt="">
           </div>
           <h3>Proposal</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Rajasthani" href="/Rajasthani">
+<div class="blog-img">
+          <img src="assets/images/new/blog/46.jpg" alt="">
           </div>
           <h3>Rajasthani</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Muslim" href="/Muslim">
+<div class="blog-img">
+          <img src="assets/images/new/blog/47.jpg" alt="">
           </div>
           <h3>Muslim</h3>
 </a>
-<a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
-          <div>
-            <i class="ic ic-IC_Car"></i>
+<a class="hm-vndr-icn cB-item" id="category-car" data-url="/Mehndi-Artists" href="/Mehndi-Artists">
+<div class="blog-img">
+          <img src="assets/images/new/blog/48.jpg" alt="">
           </div>
           <h3>Mehndi Artists</h3>
 </a>
@@ -340,7 +340,100 @@
 </div>
 </div>
 
-
+<div class="container mt-4 mb-5">
+<div class="row">
+<div class="col-lg-4">
+  <div class="box-blog">
+  <a href="blog_details.php">
+<img src="assets/images/new/blog/blog-1.jpg" alt="">
+<h3>Real Brides Who Won Us Over In Their Salmon Pink Lehengas</h3>
+<p>BRIDAL FASHION</p>
+<p>Rajesh • 2 Mar 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-2.jpg" alt="">
+<h3>A Mini Guide On How To Make Your Wedding Pheras More Special</h3>
+<p>WEDDING PLANNING</p>
+<p>Shivam • 1 Mar 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-3.jpg" alt="">
+<h3>What To Wear When: Traditional Nath vs Minimal Nath</h3>
+<p>JEWELLERY</p>
+<p>Rahul • 24 Mar 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-4.jpg" alt="">
+<h3>A Vivid Floral Dream: The Bridgerton Inspired Wedding Of Natasha & Anish</h3>
+<p>DESTINATION</p>
+<p>Komal • 18 Mar 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-5.jpg" alt="">
+<h3>Wedding Planning: How To Create The Perfect Wedding<br>Favours!</h3>
+<p>WEDDING FAVOURS & GIFTS</p>
+<p>Shivani • 20 Feb 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-6.jpg" alt="">
+<h3>What To Wear When: Colourful Eye-Makeup Vs Neutral Eye-Makeup</h3>
+<p>BRIDAL MAKEUP</p>
+<p>Shivani • 20 Feb 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-7.jpg" alt="">
+<h3>This Season, Rock A DIY Wedding Hairstyle with Vega!</h3>
+<p>HAIRSTYLES</p>
+<p>Raju • 2 Feb 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-8.jpg" alt="">
+<h3>Learning Andhra's Reddy Wedding Rituals Step By Step!</h3>
+<p>RITUALS</p>
+<p>Suman • 7 Jan 2023</p>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="box-blog">
+<a href="blog_details.php">
+<img src="assets/images/new/blog/blog-9.jpg" alt="">
+<h3> Sherwani Shots of Grooms That Capture Their Outfits Perfectly!</h3>
+<p>GROOM FASHION</p>
+<p>Suman • 3 Jan 2023</p>
+</a>
+</div>
+</div>
+</div>
+</div>
         
     
 
