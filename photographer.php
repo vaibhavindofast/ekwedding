@@ -1,0 +1,250 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]>
+-->
+<html lang="en">
+    <!-- <![endif]-->
+    <!-- head -->
+    <head>
+
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <!-- Basic Page Needs
+        ================================================== -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <!-- Specific Meta
+        ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content="EkWedding">
+        <meta name="keywords" content="EkWedding">
+        <meta name="author" content="EkWedding">
+        <meta name="MobileOptimized" content="320" />
+        
+        <!-- Titles
+        ================================================== -->
+        <title>EkWedding</title>
+
+        <!-- Favicons
+        ================================================== -->
+        <link rel="icon" href="assets/images/favicon.png" type="image/png">
+        <link rel="icon" href="assets/images/favicon.ico">
+
+        <!-- CSS ( Bootstrap + Owlcarouses + Fontawesome + Animate + Select2 + Custom Style )
+        ======================================================================================= -->
+        <link href="assets/css/base.css" rel="stylesheet">
+
+        
+    </head>
+    <!-- end head -->
+    <!--body start-->
+    <body>    
+
+  <?php include('header.php')?>
+    <!--  Ekwedding top -->
+
+<section class="wide-tb-120 pb-70">
+    <div class="photographer-banner">
+        <div class="bg-color-banner">
+            <div class="container">
+<h2>Photographer</h2>
+<ul>
+    <li><a href="index.php"> Home</a></li>
+    <li>|</li>
+    <li>Photographer</li>
+</ul>
+</div>
+    </div>
+    </div>
+</section>
+
+
+<section class="mb-5">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<h2>Wedding Photographers</h2>
+<p>The ‘IT capital’ of the country is home to the country’s most stylish people. Weddings in, therefore, are not only beautiful and grand but also the most stylish weddings in the country. For the people of pour in all their efforts and hard-earned money to make their wedding a grand affair, these deserve to be captured by the best wedding photographers in. Find these listed down below with details about their skills, past work, and reviews and choose your best ones. Reach out to the photographers directly or request a callback from us for more details.</p>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+    <a href="#">
+<img src="assets/images/new/Photographers/1.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Skyline Films</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹50,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="#">
+<img src="assets/images/new/Photographers/2.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Beautiful People</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹1,40,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="#">
+<img src="assets/images/new/Photographers/3.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Artsy Lens Photography</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹37,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="#">
+<img src="assets/images/new/Photographers/4.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Cloudart Photography</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹45,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="#">
+<img src="assets/images/new/Photographers/5.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Chandru Visuals</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹40,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="#">
+<img src="assets/images/new/Photographers/6.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>Happy Weddings</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹30,000</h4>
+</div>
+<div class="col-8">
+<p>For 1 Day of Photo + Video</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<?php include('footer.php')?>
+
+<!-- All The JS Files
+  ================================================== -->
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/bootstrap-dropdownhover.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/jquery-ui.min.js"></script>
+<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>  
+<script src="assets/js/isotope.pkgd.min.js"></script> 
+<script src="assets/js/datepicker.js"></script>    
+<script src="assets/js/script.js"></script>
+<script src="assets/js/select2.min.js"></script>
+
+
+
+</body>
+</html>

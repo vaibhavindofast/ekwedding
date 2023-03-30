@@ -100,7 +100,7 @@
 
                                     <p>Call : <a href="tel:+81-258-852-6699">+91 000 000 0000</a></p>
 
-                                    <p>Mail : <a href="mailto:Info@ekwedding.com">Info@vendor</a></p>
+                                    <p>Mail : <a href="mailto:Info@ekwedding.com">info@ekwedding.com</a></p>
 
                                 </div>
 
@@ -108,15 +108,12 @@
 
                                     <ul class="list-unstyled">
 
-                                        <li><a href="javascript:"><i class="fa fa-facebook-f"></i></a></li>
-
-                                        <li><a href="javascript:"><i class="fa fa-twitter"></i></a></li>
-
-                                        <li><a href="javascript:"><i class="fa fa-instagram"></i></a>
-
-                                        <li><a href="javascript:"><i class="fa fa-linkedin"></i></a></li>
-
-                                    </ul>
+                                    <li><a target="blank" href="https://www.facebook.com/ekweddingindia"><i class="fa fa-facebook-f"></i></a></li>
+                                <li><a target="blank" href="https://twitter.com/ekweddingindia"><i class="fa fa-twitter"></i></a></li>
+                                <li><a target="blank" href="https://www.instagram.com/ekweddingindia/"><i class="fa fa-instagram"></i></a>
+                                <li><a target="blank" href="https://www.linkedin.com/in/ek-wedding-16475525a/"><i class="fa fa-linkedin"></i></a></li></ul>
+                                    <ul class="list-unstyled"><li><a target="blank" href="https://www.tumblr.com/ekweddingindia"><i class="fa fa-tumblr"></i></a></li>
+                                <li><a target="blank" href="https://in.pinterest.com/ekweddingindia/"><i class="fa fa-pinterest"></i></a></li></ul>
 
                                 </div>
 

@@ -21,7 +21,7 @@
         <div class="slider-content">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-9 col-lg-12 mx-auto">
+                    <div class="col-xl-9 col-lg-12 mx-auto mobile-view-none">
                         <h1>Find the Perfect Wedding Vendor</h1>
                         <p class="lead txt-white text-center">Search over 360,000 wedding vendors with reviews, pricing, availability and more</p>
                         <div class="slider-form rounded">

@@ -20,10 +20,12 @@
                     <div class="col-sm-12 col-lg">
                         <div class="social-icons">
                             <ul class="list-unstyled">
-                                <li><a href="javascript:"><i class="fa fa-facebook-f"></i></a></li>
-                                <li><a href="javascript:"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="javascript:"><i class="fa fa-instagram"></i></a>
-                                <li><a href="javascript:"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a target="blank" href="https://www.facebook.com/ekweddingindia"><i class="fa fa-facebook-f"></i></a></li>
+                                <li><a target="blank" href="https://twitter.com/ekweddingindia"><i class="fa fa-twitter"></i></a></li>
+                                <li><a target="blank" href="https://www.instagram.com/ekweddingindia/"><i class="fa fa-instagram"></i></a>
+                                <li><a target="blank" href="https://www.linkedin.com/in/ek-wedding-16475525a/"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a target="blank" href="https://www.tumblr.com/ekweddingindia"><i class="fa fa-tumblr"></i></a></li>
+                                <li><a target="blank" href="https://in.pinterest.com/ekweddingindia/"><i class="fa fa-pinterest"></i></a></li>
                             </ul>
                         </div>
                     </div>

@@ -58,87 +58,87 @@
 <div id="category-selaction" class="container-fluid padt-24 mpt-16 cB-container position-relative">
   <div class="categoryBox">
     <div class="">
-        <a class="hm-vndr-icn cB-item" id="category-pho" data-url="/wedding-photographers" href="/wedding-photographers">
+        <a class="hm-vndr-icn cB-item" id="category-pho" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Photographer"></i>
           </div>
           <h3>Photographers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-mua" data-url="/bridal-makeup-artists" href="/bridal-makeup-artists">
+</a>        <a class="hm-vndr-icn cB-item" id="category-mua" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Make_Up_Artist"></i>
           </div>
           <h3>Makeup Artists</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-dec" data-url="/wedding-decorators" href="/wedding-decorators">
+</a>        <a class="hm-vndr-icn cB-item" id="category-dec" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Decorator"></i>
           </div>
           <h3>Decorators</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-meh" data-url="/mehndi-artists" href="/mehndi-artists">
+</a>        <a class="hm-vndr-icn cB-item" id="category-meh" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_MehendiArtist"></i>
           </div>
           <h3>Mehndi Artists</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-pln" data-url="/wedding-planners" href="/wedding-planners">
+</a>        <a class="hm-vndr-icn cB-item" id="category-pln" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_WeddingPlanner"></i>
           </div>
           <h3>Planners</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-ven" data-url="/wedding-venues" href="/wedding-venues">
+</a>        <a class="hm-vndr-icn cB-item" id="category-ven" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Venue"></i>
           </div>
           <h3>Venues</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-brd" data-url="/wedding-wear" href="/wedding-wear">
+</a>        <a class="hm-vndr-icn cB-item" id="category-brd" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_BridalWear"></i>
           </div>
           <h3>Wedding Wear</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-inv" data-url="/wedding-cards" href="/wedding-cards">
+</a>        <a class="hm-vndr-icn cB-item" id="category-inv" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Invitation"></i>
           </div>
           <h3>Invitation Designers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-cho" data-url="/choreographers" href="/choreographers">
+</a>        <a class="hm-vndr-icn cB-item" id="category-cho" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Chorographer"></i>
           </div>
           <h3>Choreographers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-cat" data-url="/catering" href="/catering">
+</a>        <a class="hm-vndr-icn cB-item" id="category-cat" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Caterer"></i>
           </div>
           <h3>Caterers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-jwl" data-url="/wedding-jewellery" href="/wedding-jewellery">
+</a>        <a class="hm-vndr-icn cB-item" id="category-jwl" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Jewellery"></i>
           </div>
           <h3>Jewellery</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-hny" data-url="/honeymoon-tour-travels" href="/honeymoon-tour-travels">
+</a>        <a class="hm-vndr-icn cB-item" id="category-hny" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Honeymoon"></i>
           </div>
           <h3>Honeymoon</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-ent" data-url="/wedding-entertainment" href="/wedding-entertainment">
+</a>        <a class="hm-vndr-icn cB-item" id="category-ent" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Entertainment"></i>
           </div>
           <h3>Entertainment</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-dj" data-url="/dj" href="/dj">
+</a>        <a class="hm-vndr-icn cB-item" id="category-dj" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Dj"></i>
           </div>
           <h3>DJs</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-pnd" data-url="/wedding-pandits" href="/wedding-pandits">
+</a>        <a class="hm-vndr-icn cB-item" id="category-pnd" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Pandit"></i>
           </div>
           <h3>Pandits</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-gft" data-url="/wedding-gifts" href="/wedding-gifts">
+</a>        <a class="hm-vndr-icn cB-item" id="category-gft" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Gift"></i>
           </div>
           <h3>Gifts</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-car" data-url="/wedding-cars-rental" href="/wedding-cars-rental">
+</a>        <a class="hm-vndr-icn cB-item" id="category-car" data-toggle="modal" href="#exampleModalCenter">
           <div>
             <i class="ic ic-IC_Car"></i>
           </div>
@@ -358,7 +358,7 @@
         <!-- Wedding Dir Features End -->
 
         <!-- Top Wedding Vendors Start -->
-        <section class="wide-tb-40">
+        <section class="wide-tb-40 wedding-v-padding-b">
             <div class="container">
                 <div class="section-title text-center">
                     <h1>Top Wedding Vendors</h1>
@@ -529,12 +529,15 @@
                     <!-- Vendor Listing Wrap -->
                
                 </div>
-                <div class="col-md-12">
-                        <div class="text-center">
+                <div class="row">
+                <div class="col-lg-12">
+                       <div class="text-center">
                             <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="loadMore">View More </button>
                             <button class="btn btn-default btn-rounded text-uppercase btn-lg" id="showLess">less More </button>
-                        </div>
+                            </div>
                     </div>
+
+</div>
             </div>
         </section>
         <!-- Top Wedding Vendors End -->
@@ -558,7 +561,7 @@
                                     <img src="assets/images/location_img_2.jpg" alt="">
                                 </div>
                             </div>
-                            <div class=" col-lg-4 ">
+                            <div class=" col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Samastipur <span>141 Vendors</span></a></h3>
@@ -576,7 +579,7 @@
                                     <img src="assets/images/location_img_2.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -585,7 +588,7 @@
                                     <img src="assets/images/location_img_5.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -594,7 +597,7 @@
                                     <img src="assets/images/location_img_2.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -604,7 +607,7 @@
                                 </div> 
                             </div>
 
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -613,7 +616,7 @@
                                     <img src="assets/images/location_img_5.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -622,7 +625,7 @@
                                     <img src="assets/images/location_img_2.jpg" alt="">
                                 </div> 
                             </div>
-                            <div class="col-lg-4 ">
+                            <div class="col-lg-4 mb-0">
                                 <div class="popular-locations">
                                     <div class="overlay-box">
                                         <h3><a href="#">Muzaffarpur <span>59 Vendors</span></a></h3>
@@ -1219,6 +1222,86 @@
 
  <?php include('footer.php')?>
 
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="photographer.php">Adilabad</a></li>
+        <li><a href="photographer.php">Agar</a></li>
+        <li><a href="photographer.php">Ahmedabad</a></li>
+        <li><a href="photographer.php">Akola</a></li>
+        <li><a href="photographer.php">Almora</a></li>
+        <li><a href="photographer.php">Ampati</a></li>
+        <li><a href="photographer.php">Amritsa</a></li>
+        <li><a href="photographer.php">Badgam</a></li>
+        <li><a href="photographer.php">Bagalkot</a></li>
+        <li><a href="photographer.php">Bageshwar</a></li>
+        <li><a href="photographer.php">Baksa</a></li>
+        <li><a href="photographer.php">Balangir</a></li>
+        <li><a href="photographer.php">Balod</a></li>
+        <li><a href="photographer.php">Balrampur</a></li>
+        <li><a href="photographer.php">Bandipora</a></li>
+        <li><a href="photographer.php">Bareilly</a></li>
+        <li><a href="photographer.php">Bastar</a></li>
+        <li><a href="photographer.php">Bhopal</a></li>
+        <li><a href="photographer.php">Cachar</a></li>
+        <li><a href="photographer.php">Chamarajnagar</a></li>
+        <li><a href="photographer.php">Chandel</a></li>
+        <li><a href="photographer.php">Chandigarh</a></li>
+        <li><a href="photographer.php">Chatra</a></li>
+        <li><a href="photographer.php">Chirang</a></li>
+        <li><a href="photographer.php">Chittoor</a></li>
+        <li><a href="photographer.php">Churu</a></li>
+        <li><a href="photographer.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="photographer.php">Dahod</a></li>
+        <li><a href="photographer.php">Daman</a></li>
+        <li><a href="photographer.php">Darbhanga</a></li>
+        <li><a href="photographer.php">Dausa</a></li>
+        <li><a href="photographer.php">Delhi</a></li>
+        <li><a href="photographer.php">Deogarh</a></li>
+        <li><a href="photographer.php">Devbhoomi Dwarka</a></li>
+        <li><a href="photographer.php">Dhanbad</a></li>
+        <li><a href="photographer.php">Dumka</a></li>
+        <li><a href="photographer.php">Etawah</a></li>
+        <li><a href="photographer.php">Faizabad</a></li>
+        <li><a href="photographer.php">Faridabad</a></li>
+        <li><a href="photographer.php">Fatehpur</a></li>
+        <li><a href="photographer.php">Fazilka</a></li>
+        <li><a href="photographer.php">Gadag</a></li>
+        <li><a href="photographer.php">Gadchiroli</a></li>
+        <li><a href="photographer.php">Gaya</a></li>
+        <li><a href="photographer.php">Ghaziabad</a></li>
+        <li><a href="photographer.php">Giridih</a></li>
+        <li><a href="photographer.php">Goa</a></li>
+        <li><a href="photographer.php">Goalpara</a></li>
+        <li><a href="photographer.php">Gwalior</a></li>
+        <li><a href="photographer.php">Hailakandi</a></li>
+        <li><a href="photographer.php">Hampi</a></li>
+        <li><a href="photographer.php">Hapur</a></li>
+        <li><a href="photographer.php">Haridwar</a></li>
+        <li><a href="photographer.php">Hyderabad</a></li>
+        <li><a href="photographer.php">Indore</a></li>
+        <li><a href="photographer.php">Jabalpur</a></li>
+        <li><a href="photographer.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
     <!-- All The JS Files
       ================================================== -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
@@ -1244,11 +1327,11 @@ $(document).ready(function () {
     x=3;
     $('#myList .col:lt('+x+')').show();
     $('#loadMore').click(function () {
-        x= (x+5 <= size_li) ? x+3 : size_li;
+        x= (x+5 <= size_li) ? x+6 : size_li;
         $('#myList .col:lt('+x+')').show();
     });
     $('#showLess').click(function () {
-        x=(x-5<0) ? 3 : x-3;
+        x=(x-5<0) ? 3 : x-6;
         $('#myList .col').not(':lt('+x+')').hide();
     });
 });
@@ -1259,14 +1342,32 @@ $(document).ready(function () {
     y=3;
     $('#mylocation .popular-locations:lt('+y+')').show();
     $('#loadlocation').click(function () {
-        y= (y+5 <= size_li) ? y+3 : size_li;
+        y= (y+5 <= size_li) ? y+6 : size_li;
         $('#mylocation .popular-locations:lt('+y+')').show();
     });
     $('#showlocation').click(function () {
-        y=(y-5<0) ? 3 : y-3;
+        y=(y-5<0) ? 3 : y-6;
         $('#mylocation .popular-locations').not(':lt('+y+')').hide();
     });
 });
+
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
     </script>
+   
 </body>
 </html>
