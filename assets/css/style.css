@@ -98,7 +98,7 @@ strong {
 /* Links Setting */
 a,
 input[type="text"] {
-  color: #333;
+  color: #333 ;
   text-decoration: none;
   -webkit-transition: all 400ms ease-in-out;
   -moz-transition: all 400ms ease-in-out;
@@ -1047,7 +1047,7 @@ Background Color / Color
 .btn-outline-primary,
 .btn-outline-primary:disabled,
 .btn-outline-primary:hover:disabled {
-  color: #00aeaf;
+  color: #00aeaf !important;
   background-color: transparent;
   border-color: #00aeaf;
 }
@@ -6299,6 +6299,12 @@ footer .widget-listing li {
   .copyrights-link {
     padding-top: 7px;
   }
+  .border-top-photographer{
+    margin-top: 0 !important;
+  }
+  .border-top-photographer img{
+  margin-bottom: 15px;
+    }
   .search-result-tabbing .wedding-listing{
     margin-bottom: 0;
   }
@@ -7344,4 +7350,92 @@ transition: 0.6s;
 .price p{
   color: #000000b3;
   margin-bottom: 0;
+}
+
+.photo-details p span {
+  background-color: #f48f00;
+  color: #fff;
+  float: right;
+  padding: 1px 3px;
+  border-radius: 2px;
+}
+.photo-details h2{
+  font-size: 22px;
+}
+.photo-details p{
+  margin-bottom: 10px;
+}
+.photo-details-amount h4{
+  color: #f48f00;
+}
+.photo-details-amount{
+  border-top: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  padding: 11px 15px 0 15px;
+}
+.photo-details-Share span i{
+color:#f48f00 ;
+font-size: 25px;
+padding-right: 14px;
+padding-top: 18px;
+}
+.photo-details-modal .modal-body{
+padding: 0 !important;
+}
+.photo-details{
+  padding: 11px 15px 0 15px;
+}
+.photo-details-amount p {
+  margin-bottom: 10px;
+}
+.photo-details-Share{
+  padding: 0px 15px 15px 15px;
+}
+.photo-details-modal .modal-header button span{
+  margin-top: -8px;
+  
+}
+.photo-details-modal .modal-header button{
+  margin-right: 0px;
+  margin-top: -9px;
+  margin-bottom: -9px;
+
+}
+@media (min-width: 576px){
+  .photo-details-modal .modal-dialog {
+    top: 20%;
+}
+}
+.border-top-photographer{
+  border-top: 1px solid #00000042;
+  margin-top: 133px;
+
+}
+.wide-tb-20{
+  padding-top: 10px;
+}
+.border-top-photographer img{
+border-radius: 5px;
+}
+
+
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+.img-responsive{
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.photo-details-top{
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+.photo-details-Share{
+  border-bottom: 1px solid #dee2e6;
+}
+.photo-details-button{
+  padding: 10px;
+ 
 }

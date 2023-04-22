@@ -27,24 +27,26 @@
                         <div class="slider-form rounded">
                             <div class="row no-gutters align-items-center">
                                 <div class="col-12 col-md-5">
-                                    <select class="form-light-select theme-combo home-select-1" name="state">
+                                    <!-- <select class="form-light-select theme-combo home-select-1" name="state">
                                         <option>Choose Vendor Type</option>
                                         <option value="AL">Vendor Type 1</option>
                                         <option value="WY">Vendor Type 2</option>
                                         <option value="WY">Vendor Type 3</option>
                                         <option value="WY">Vendor Type 4</option>
                                         <option value="WY">Vendor Type 5</option>
-                                    </select>
+                                    </select> -->
+                                    <input type="text" aria-label="First name" id="tags" class="form-control form-light ui-autocomplete-input" placeholder="(E.g. Clifton Springs Weddings)" autocomplete="off">
                                 </div>
                                 <div class="col-12 col-md-5 left-border">
-                                    <select class="form-light-select theme-combo home-select-2" name="state">
+                                    <!-- <select class="form-light-select theme-combo home-select-2" name="state">
                                         <option>Choose Location</option>
                                         <option value="AL">Mumbai</option>
                                         <option value="WY">Goa</option>
                                         <option value="WY">Surat</option>
                                         <option value="WY">Delhi</option>
                                         <option value="WY">Baroda</option>
-                                    </select>
+                                    </select> -->
+                                    <input type="text" aria-label="Last name" id="venuecity" class="form-control form-light left-border ui-autocomplete-input" placeholder="Enter City Name" required="" autocomplete="off">
                                 </div>
                                 <div class="col-12 col-md-2">
                                     <a href="#" class="btn btn-default text-nowrap btn-block" >Search Now</a>

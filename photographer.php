@@ -70,7 +70,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-    <a href="#">
+    <a href="photographer-details.php">
 <img src="assets/images/new/Photographers/1.jpg" alt="">
 <div class="row">
 <div class="col-9">
@@ -96,7 +96,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="#">
+<a href="photographer-details.php">
 <img src="assets/images/new/Photographers/2.jpg" alt="">
 <div class="row">
 <div class="col-9">
@@ -122,7 +122,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="#">
+<a href="photographer-details.php">
 <img src="assets/images/new/Photographers/3.jpg" alt="">
 <div class="row">
 <div class="col-9">
@@ -148,7 +148,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="#">
+<a href="photographer-details.php">
 <img src="assets/images/new/Photographers/4.jpg" alt="">
 <div class="row">
 <div class="col-9">
@@ -174,7 +174,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="#">
+<a href="photographer-details.php">
 <img src="assets/images/new/Photographers/5.jpg" alt="">
 <div class="row">
 <div class="col-9">
@@ -200,7 +200,7 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="#">
+<a href="photographer-details.php">
 <img src="assets/images/new/Photographers/6.jpg" alt="">
 <div class="row">
 <div class="col-9">
