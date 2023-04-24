@@ -1423,7 +1423,7 @@ Background Color / Color
 
 /*---- 4.5 Margin/Padding Spacing ---*/
 .wide-tb-120 {
-  padding-top: 120px;
+  padding-top: 134px;
   padding-bottom: 120px;
 }
 .wide-tb-100 {
@@ -6299,6 +6299,12 @@ footer .widget-listing li {
   .copyrights-link {
     padding-top: 7px;
   }
+  .bg-slider-color{
+    height: 105px !important;
+  }
+  .pb-50{
+    padding-bottom: 0 !important;
+  }
   .border-top-photographer{
     margin-top: 0 !important;
   }
@@ -7350,6 +7356,7 @@ transition: 0.6s;
 .price p{
   color: #000000b3;
   margin-bottom: 0;
+  float: right;
 }
 
 .photo-details p span {
@@ -7438,4 +7445,47 @@ border-radius: 5px;
 .photo-details-button{
   padding: 10px;
  
+}
+.pt-120{
+  padding-top: 60px;
+}
+.bg-slider-img{
+  background-image: url(../images/new/Makeup/background-img.jpg);
+  background-size: cover;
+}
+.carousel-caption h2{
+  color: #005b5c;
+}
+.pb-50{
+  padding-bottom: 10px;
+}
+.bg-slider-color{
+  background-color: #f3f3f3;
+
+  height: 365px;
+}
+.carousel-caption{
+  bottom: 0px;
+  padding-bottom: 8px;
+}
+.gallery h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.video-gallery-makeup{
+  text-align: center;
+
+}
+.video-gallery-makeup h2{
+  margin-bottom: 30px;
+}
+.video-gallery-makeup iframe{
+  border-radius: 10px;
+}
+.makeup-img{
+  width: 100px !important;
+    height: 100px !important;
+}
+.makeup-img img{
+  border-radius: 5px;
 }

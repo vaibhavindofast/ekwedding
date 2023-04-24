@@ -63,7 +63,7 @@
             <i class="ic ic-IC_Photographer"></i>
           </div>
           <h3>Photographers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-mua" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-mua" data-toggle="modal" href="#exampleModaltow">
           <div>
             <i class="ic ic-IC_Make_Up_Artist"></i>
           </div>
@@ -1292,6 +1292,84 @@
         <li><a href="photographer.php">Indore</a></li>
         <li><a href="photographer.php">Jabalpur</a></li>
         <li><a href="photographer.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModaltow" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="makeup.php">Adilabad</a></li>
+        <li><a href="makeup.php">Agar</a></li>
+        <li><a href="makeup.php">Ahmedabad</a></li>
+        <li><a href="makeup.php">Akola</a></li>
+        <li><a href="makeup.php">Almora</a></li>
+        <li><a href="makeup.php">Ampati</a></li>
+        <li><a href="makeup.php">Amritsa</a></li>
+        <li><a href="makeup.php">Badgam</a></li>
+        <li><a href="makeup.php">Bagalkot</a></li>
+        <li><a href="makeup.php">Bageshwar</a></li>
+        <li><a href="makeup.php">Baksa</a></li>
+        <li><a href="makeup.php">Balangir</a></li>
+        <li><a href="makeup.php">Balod</a></li>
+        <li><a href="makeup.php">Balrampur</a></li>
+        <li><a href="makeup.php">Bandipora</a></li>
+        <li><a href="makeup.php">Bareilly</a></li>
+        <li><a href="makeup.php">Bastar</a></li>
+        <li><a href="makeup.php">Bhopal</a></li>
+        <li><a href="makeup.php">Cachar</a></li>
+        <li><a href="makeup.php">Chamarajnagar</a></li>
+        <li><a href="makeup.php">Chandel</a></li>
+        <li><a href="makeup.php">Chandigarh</a></li>
+        <li><a href="makeup.php">Chatra</a></li>
+        <li><a href="makeup.php">Chirang</a></li>
+        <li><a href="makeup.php">Chittoor</a></li>
+        <li><a href="makeup.php">Churu</a></li>
+        <li><a href="makeup.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="makeup.php">Dahod</a></li>
+        <li><a href="makeup.php">Daman</a></li>
+        <li><a href="makeup.php">Darbhanga</a></li>
+        <li><a href="makeup.php">Dausa</a></li>
+        <li><a href="makeup.php">Delhi</a></li>
+        <li><a href="makeup.php">Deogarh</a></li>
+        <li><a href="makeup.php">Devbhoomi Dwarka</a></li>
+        <li><a href="makeup.php">Dhanbad</a></li>
+        <li><a href="makeup.php">Dumka</a></li>
+        <li><a href="makeup.php">Etawah</a></li>
+        <li><a href="makeup.php">Faizabad</a></li>
+        <li><a href="makeup.php">Faridabad</a></li>
+        <li><a href="makeup.php">Fatehpur</a></li>
+        <li><a href="makeup.php">Fazilka</a></li>
+        <li><a href="makeup.php">Gadag</a></li>
+        <li><a href="makeup.php">Gadchiroli</a></li>
+        <li><a href="makeup.php">Gaya</a></li>
+        <li><a href="makeup.php">Ghaziabad</a></li>
+        <li><a href="makeup.php">Giridih</a></li>
+        <li><a href="makeup.php">Goa</a></li>
+        <li><a href="makeup.php">Goalpara</a></li>
+        <li><a href="makeup.php">Gwalior</a></li>
+        <li><a href="makeup.php">Hailakandi</a></li>
+        <li><a href="makeup.php">Hampi</a></li>
+        <li><a href="makeup.php">Hapur</a></li>
+        <li><a href="makeup.php">Haridwar</a></li>
+        <li><a href="makeup.php">Hyderabad</a></li>
+        <li><a href="makeup.php">Indore</a></li>
+        <li><a href="makeup.php">Jabalpur</a></li>
+        <li><a href="makeup.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">

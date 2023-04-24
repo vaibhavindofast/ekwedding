@@ -58,7 +58,7 @@
   <div class="row">
 <div class="col-8">
 <h2>Skyline Films</h2>
-<p>Wedding Photographer in Bangalore</p>
+<p>Wedding Photographer in Patna</p>
 </div>
 <div class="col-4">
 <p><span><i class="fa fa-star"></i> 3.3 (0)</span></p>
