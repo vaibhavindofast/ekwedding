@@ -68,7 +68,7 @@
             <i class="ic ic-IC_Make_Up_Artist"></i>
           </div>
           <h3>Makeup Artists</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-dec" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-dec" data-toggle="modal" href="#exampleModalthree">
           <div>
             <i class="ic ic-IC_Decorator"></i>
           </div>
@@ -1370,6 +1370,83 @@
         <li><a href="makeup.php">Indore</a></li>
         <li><a href="makeup.php">Jabalpur</a></li>
         <li><a href="makeup.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalthree" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="decorators.php">Adilabad</a></li>
+        <li><a href="decorators.php">Agar</a></li>
+        <li><a href="decorators.php">Ahmedabad</a></li>
+        <li><a href="decorators.php">Akola</a></li>
+        <li><a href="decorators.php">Almora</a></li>
+        <li><a href="decorators.php">Ampati</a></li>
+        <li><a href="decorators.php">Amritsa</a></li>
+        <li><a href="decorators.php">Badgam</a></li>
+        <li><a href="decorators.php">Bagalkot</a></li>
+        <li><a href="decorators.php">Bageshwar</a></li>
+        <li><a href="decorators.php">Baksa</a></li>
+        <li><a href="decorators.php">Balangir</a></li>
+        <li><a href="decorators.php">Balod</a></li>
+        <li><a href="decorators.php">Balrampur</a></li>
+        <li><a href="decorators.php">Bandipora</a></li>
+        <li><a href="decorators.php">Bareilly</a></li>
+        <li><a href="decorators.php">Bastar</a></li>
+        <li><a href="decorators.php">Bhopal</a></li>
+        <li><a href="decorators.php">Cachar</a></li>
+        <li><a href="decorators.php">Chamarajnagar</a></li>
+        <li><a href="decorators.php">Chandel</a></li>
+        <li><a href="decorators.php">Chandigarh</a></li>
+        <li><a href="decorators.php">Chatra</a></li>
+        <li><a href="decorators.php">Chirang</a></li>
+        <li><a href="decorators.php">Chittoor</a></li>
+        <li><a href="decorators.php">Churu</a></li>
+        <li><a href="decorators.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="decorators.php">Dahod</a></li>
+        <li><a href="decorators.php">Daman</a></li>
+        <li><a href="decorators.php">Darbhanga</a></li>
+        <li><a href="decorators.php">Dausa</a></li>
+        <li><a href="decorators.php">Delhi</a></li>
+        <li><a href="decorators.php">Deogarh</a></li>
+        <li><a href="decorators.php">Devbhoomi Dwarka</a></li>
+        <li><a href="decorators.php">Dhanbad</a></li>
+        <li><a href="decorators.php">Dumka</a></li>
+        <li><a href="decorators.php">Etawah</a></li>
+        <li><a href="decorators.php">Faizabad</a></li>
+        <li><a href="decorators.php">Faridabad</a></li>
+        <li><a href="decorators.php">Fatehpur</a></li>
+        <li><a href="decorators.php">Fazilka</a></li>
+        <li><a href="decorators.php">Gadag</a></li>
+        <li><a href="decorators.php">Gadchiroli</a></li>
+        <li><a href="decorators.php">Gaya</a></li>
+        <li><a href="decorators.php">Ghaziabad</a></li>
+        <li><a href="decorators.php">Giridih</a></li>
+        <li><a href="decorators.php">Goa</a></li>
+        <li><a href="decorators.php">Goalpara</a></li>
+        <li><a href="decorators.php">Gwalior</a></li>
+        <li><a href="decorators.php">Hailakandi</a></li>
+        <li><a href="decorators.php">Hampi</a></li>
+        <li><a href="decorators.php">Hapur</a></li>
+        <li><a href="decorators.php">Haridwar</a></li>
+        <li><a href="decorators.php">Hyderabad</a></li>
+        <li><a href="decorators.php">Indore</a></li>
+        <li><a href="decorators.php">Jabalpur</a></li>
+        <li><a href="decorators.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">
