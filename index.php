@@ -73,7 +73,7 @@
             <i class="ic ic-IC_Decorator"></i>
           </div>
           <h3>Decorators</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-meh" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-meh" data-toggle="modal" href="#exampleModalfour">
           <div>
             <i class="ic ic-IC_MehendiArtist"></i>
           </div>
@@ -1447,6 +1447,83 @@
         <li><a href="decorators.php">Indore</a></li>
         <li><a href="decorators.php">Jabalpur</a></li>
         <li><a href="decorators.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalfour" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="mehndi.php">Adilabad</a></li>
+        <li><a href="mehndi.php">Agar</a></li>
+        <li><a href="mehndi.php">Ahmedabad</a></li>
+        <li><a href="mehndi.php">Akola</a></li>
+        <li><a href="mehndi.php">Almora</a></li>
+        <li><a href="mehndi.php">Ampati</a></li>
+        <li><a href="mehndi.php">Amritsa</a></li>
+        <li><a href="mehndi.php">Badgam</a></li>
+        <li><a href="mehndi.php">Bagalkot</a></li>
+        <li><a href="mehndi.php">Bageshwar</a></li>
+        <li><a href="mehndi.php">Baksa</a></li>
+        <li><a href="mehndi.php">Balangir</a></li>
+        <li><a href="mehndi.php">Balod</a></li>
+        <li><a href="mehndi.php">Balrampur</a></li>
+        <li><a href="mehndi.php">Bandipora</a></li>
+        <li><a href="mehndi.php">Bareilly</a></li>
+        <li><a href="mehndi.php">Bastar</a></li>
+        <li><a href="mehndi.php">Bhopal</a></li>
+        <li><a href="mehndi.php">Cachar</a></li>
+        <li><a href="mehndi.php">Chamarajnagar</a></li>
+        <li><a href="mehndi.php">Chandel</a></li>
+        <li><a href="mehndi.php">Chandigarh</a></li>
+        <li><a href="mehndi.php">Chatra</a></li>
+        <li><a href="mehndi.php">Chirang</a></li>
+        <li><a href="mehndi.php">Chittoor</a></li>
+        <li><a href="mehndi.php">Churu</a></li>
+        <li><a href="mehndi.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="mehndi.php">Dahod</a></li>
+        <li><a href="mehndi.php">Daman</a></li>
+        <li><a href="mehndi.php">Darbhanga</a></li>
+        <li><a href="mehndi.php">Dausa</a></li>
+        <li><a href="mehndi.php">Delhi</a></li>
+        <li><a href="mehndi.php">Deogarh</a></li>
+        <li><a href="mehndi.php">Devbhoomi Dwarka</a></li>
+        <li><a href="mehndi.php">Dhanbad</a></li>
+        <li><a href="mehndi.php">Dumka</a></li>
+        <li><a href="mehndi.php">Etawah</a></li>
+        <li><a href="mehndi.php">Faizabad</a></li>
+        <li><a href="mehndi.php">Faridabad</a></li>
+        <li><a href="mehndi.php">Fatehpur</a></li>
+        <li><a href="mehndi.php">Fazilka</a></li>
+        <li><a href="mehndi.php">Gadag</a></li>
+        <li><a href="mehndi.php">Gadchiroli</a></li>
+        <li><a href="mehndi.php">Gaya</a></li>
+        <li><a href="mehndi.php">Ghaziabad</a></li>
+        <li><a href="mehndi.php">Giridih</a></li>
+        <li><a href="mehndi.php">Goa</a></li>
+        <li><a href="mehndi.php">Goalpara</a></li>
+        <li><a href="mehndi.php">Gwalior</a></li>
+        <li><a href="mehndi.php">Hailakandi</a></li>
+        <li><a href="mehndi.php">Hampi</a></li>
+        <li><a href="mehndi.php">Hapur</a></li>
+        <li><a href="mehndi.php">Haridwar</a></li>
+        <li><a href="mehndi.php">Hyderabad</a></li>
+        <li><a href="mehndi.php">Indore</a></li>
+        <li><a href="mehndi.php">Jabalpur</a></li>
+        <li><a href="mehndi.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">

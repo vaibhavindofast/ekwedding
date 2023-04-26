@@ -6299,6 +6299,15 @@ footer .widget-listing li {
   .copyrights-link {
     padding-top: 7px;
   }
+  .profile-detels-mehndi{
+    display: none;
+  }
+  .Henna-banner{
+    height: auto !important;
+  }
+  .mehndi-details-page-mobile-none{
+    display: block !important;
+  }
   .bg-slider-color{
     height: 105px !important;
   }
@@ -7000,8 +7009,31 @@ padding-bottom:20px;
 .photographer-banner{
   background-position: center !important;
 }
-.mobile-view-none h1,p{
+.mobile-view-none h1{
   display: none;
+} 
+.mobile-view-none p{
+  display: none;
+}
+.bg-color-decorators .hero-content-shape-2{
+  left: -21px !important;
+    bottom: -51px !important;
+    width: 134px !important;
+}
+.hero-content{
+  padding: 44px 40px !important;
+}
+.decorators-banner{
+  background-position: -114px !important;
+}
+.about-shape{
+  overflow: hidden !important;
+  
+}
+.bg-color-decorators .hero-content-shape-1{
+  right: -25px !important;
+  top: -29px !important;
+  width: 135px !important;
 }
 .bg-color-decorators{
   padding: 50px 0 30px 0!important;
@@ -7624,4 +7656,75 @@ border-radius: 5px;
   right: -16px;
   bottom: -24px;
   width: 97px;
+}
+
+
+.mehndi-img::before {
+  content: "";
+  position: absolute;
+  left: -31px;
+  top: -31px;
+  right: -30px;
+  bottom: -31px;
+  background-image: url(../images/new/mehndi/profile-border.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.mehndi-img {
+  width: 100px !important;
+  height: 100px !important;
+}
+.mehndi-img img {
+  border-radius: 50px;
+}
+
+.mehndi-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 62px;
+    padding-bottom: 24px;
+}
+.mehndi-item h3{
+  padding-top: 40px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.mehndi-banner{
+  padding-top: 30px;
+  background-color: #0000000f;
+  padding-bottom: 30px;
+}
+.Henna-banner{
+  background-image: url(../images/new/mehndi/gallery/banner-3.jpg);
+  height: 335px;
+  background-size: cover;
+  padding-top: 30px;
+}
+.Ingredients p{
+font-weight: 600;
+}
+.bg-color-mehndi{
+  background-image: url(../images/new/mehndi/gallery/banner-4.jpg);
+  background-size: cover;
+}
+.mehndi-details-page-mobile-none{
+  display: none;
+}
+.profile-detels-mehndi{
+  border: 2px dashed #659494 ;
+  margin-top: -41px;
+  background-color: #f0f0f0;
+}
+.profile-detels-mehndi button{
+  margin-top: 15px;
+
+}
+.mehndi-details-page-mobile-none{
+  border: 2px dashed #659494 ;
+}
+.img-center{
+  text-align: center;
 }
