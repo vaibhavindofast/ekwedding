@@ -1614,7 +1614,7 @@ header .btn {
     transition: all 0.15s linear;
   }
   header.header-anim.fixed .navbar {
-    padding: 0.5rem;
+    
     box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.09);
 
     -webkit-transition: all 0.15s linear;
@@ -1745,6 +1745,8 @@ header .btn {
 }
 .navbar-brand img {
   height: 106px;
+  margin-top: 7px;
+  margin-bottom: 7px;
 }
 .navbar {
   padding: 0 0.5rem;
@@ -7727,4 +7729,188 @@ font-weight: 600;
 }
 .img-center{
   text-align: center;
+}
+
+@media (max-width: 1500px){
+.static-hero-s2 .static-hero-right {
+    right: 0;
+}
+}
+.static-hero-s2 .static-hero-right {
+  z-index: 1;
+  position: relative;
+
+}
+@media (max-width: 1700px){
+.static-hero-s2 .static-hero-right .static-hero-img {
+    max-width: 500px;
+}
+}
+.static-hero-s2 .static-hero-right .static-hero-img {
+  z-index: 1;
+  padding: 14px;
+  -webkit-box-shadow: 0px 0px 6.1px 3.9px rgba(28, 31, 86, 0.06);
+  box-shadow: 0px 0px 6.1px 3.9px rgba(28, 31, 86, 0.06);
+  background: #fff;
+  border-radius: 320px;
+  z-index: 1;
+  max-width: 342px;
+  position: relative;
+  margin: 0 auto;
+}
+.static-hero-s2 .static-hero-right .static-hero-img .static-hero-img-inner {
+  overflow: hidden;
+  border-radius: 320px;
+}
+.static-hero-s2 .static-hero-right .static-hero-img .static-hero-img-inner img {
+  -webkit-animation: kenburn 25s 2s alternate infinite;
+  -animation: kenburn 25s 2s alternate infinite;
+}
+.static-hero-s2 .static-hero-right img {
+  border-radius: 300px;
+}
+.static-hero-s2 .static-hero-right .static-hero-shape {
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  z-index: -1;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.static-hero-s2 .static-hero-right .static-hero-shape img {
+  border-radius: 0;
+  -webkit-animation: circle 60s linear infinite;
+  animation: circle 60s linear infinite;
+}
+.static-hero-s2 .static-hero-right img {
+  border-radius: 300px;
+}
+@media (max-width:767px){
+.static-hero-s2 .static-hero-right .static-hero-img {
+    max-width: 200px;
+}
+.static-hero-s2 {
+  margin-top: 66px !important;
+}
+.static-hero-s2 .static-hero-right{
+  margin-bottom: 109px;
+}
+.wpo-fun-fact-section .categoryBox{
+  max-width: 100% !important;
+  margin-left: 0px !important;
+}
+.wpo-fun-fact-section .f-shape-2{
+  display: none;
+}
+.wpo-fun-fact-section .f-shape-1{
+  display: none;
+}
+.banner-img-planners-name{
+  background-size: 325px !important;
+  height: 223px !important;
+  margin-top: 0 !important;
+  padding-top: 76px !important;
+}
+}
+
+.static-hero-s2{
+  margin-top: 61px;
+  margin-bottom: 16px;
+}
+.planners-detail-img{
+  text-align: center;
+  margin: 20px 0;
+}
+.planners-detail-box-margin-top{
+  margin-top: -80px;
+}
+.wpo-fun-fact-section .f-shape-1{
+  position: absolute;
+  left: -59px;
+    top: 25px;
+    z-index: -1;
+}
+.wpo-fun-fact-section .f-shape-2{
+  left: auto;
+  right: -160px;
+}
+.wpo-fun-fact-section .f-shape-2{
+  position: absolute;
+ right: -59px;
+    top: 25px;
+    z-index: -1;
+}
+.wpo-fun-fact-section .categoryBox{
+  max-width: 86%;
+  margin-left: 94px;
+}
+
+
+
+.planners-item h3{
+  padding-top: 20px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.planners-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 58px;
+    padding-bottom: 24px;
+}
+
+
+.planners-img::before {
+  content: "";
+    position: absolute;
+    left: -31px;
+    top: -21px;
+    right: -21px;
+    bottom: -14px;
+    background-image: url(../images/new/planners/01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.planners-img{
+  width: 100px !important;
+    height: 100px !important;
+}
+
+.planners-img img{
+  border-radius: 50px;
+}
+.planners-banner{
+  background-image: url(../images/new/planners/gallery/banner-2.jpg);
+  background-size: cover;
+}
+.planners-heart{
+  text-align: center;
+
+}
+.planners-heart img{
+  margin-top: -71px;
+    width: 178px;
+}
+.banner-img-planners-name{
+  background-image: url(../images/new/planners/gallery/form-1-bg.png);
+  height: 374px;
+  background-size: 557px;
+  margin-top: -38px;
+  text-align: center;
+  padding-top: 152px;
+}
+.bg-color-planners {
+  background-color: #00000085;
+  padding: 69px 0;
+}
+.banner-img-planners-name h6{
+  font-size: 20px;
+  color: #fff;
+}
+.banner-img-planners-name h1{
+  font-size: 30px;
+  color: #fff;
 }

@@ -32,6 +32,7 @@
         <link rel="icon" href="assets/images/favicon.png" type="image/png">
         <link rel="icon" href="assets/images/favicon.ico">
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
         <!-- CSS ( Bootstrap + Owlcarouses + Fontawesome + Animate + Select2 + Custom Style )
         ======================================================================================= -->
         <link href="assets/css/base.css" rel="stylesheet">

@@ -78,7 +78,7 @@
             <i class="ic ic-IC_MehendiArtist"></i>
           </div>
           <h3>Mehndi Artists</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-pln" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-pln" data-toggle="modal" href="#exampleModalfive">
           <div>
             <i class="ic ic-IC_WeddingPlanner"></i>
           </div>
@@ -1524,6 +1524,83 @@
         <li><a href="mehndi.php">Indore</a></li>
         <li><a href="mehndi.php">Jabalpur</a></li>
         <li><a href="mehndi.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalfive" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="planners.php">Adilabad</a></li>
+        <li><a href="planners.php">Agar</a></li>
+        <li><a href="planners.php">Ahmedabad</a></li>
+        <li><a href="planners.php">Akola</a></li>
+        <li><a href="planners.php">Almora</a></li>
+        <li><a href="planners.php">Ampati</a></li>
+        <li><a href="planners.php">Amritsa</a></li>
+        <li><a href="planners.php">Badgam</a></li>
+        <li><a href="planners.php">Bagalkot</a></li>
+        <li><a href="planners.php">Bageshwar</a></li>
+        <li><a href="planners.php">Baksa</a></li>
+        <li><a href="planners.php">Balangir</a></li>
+        <li><a href="planners.php">Balod</a></li>
+        <li><a href="planners.php">Balrampur</a></li>
+        <li><a href="planners.php">Bandipora</a></li>
+        <li><a href="planners.php">Bareilly</a></li>
+        <li><a href="planners.php">Bastar</a></li>
+        <li><a href="planners.php">Bhopal</a></li>
+        <li><a href="planners.php">Cachar</a></li>
+        <li><a href="planners.php">Chamarajnagar</a></li>
+        <li><a href="planners.php">Chandel</a></li>
+        <li><a href="planners.php">Chandigarh</a></li>
+        <li><a href="planners.php">Chatra</a></li>
+        <li><a href="planners.php">Chirang</a></li>
+        <li><a href="planners.php">Chittoor</a></li>
+        <li><a href="planners.php">Churu</a></li>
+        <li><a href="planners.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="planners.php">Dahod</a></li>
+        <li><a href="planners.php">Daman</a></li>
+        <li><a href="planners.php">Darbhanga</a></li>
+        <li><a href="planners.php">Dausa</a></li>
+        <li><a href="planners.php">Delhi</a></li>
+        <li><a href="planners.php">Deogarh</a></li>
+        <li><a href="planners.php">Devbhoomi Dwarka</a></li>
+        <li><a href="planners.php">Dhanbad</a></li>
+        <li><a href="planners.php">Dumka</a></li>
+        <li><a href="planners.php">Etawah</a></li>
+        <li><a href="planners.php">Faizabad</a></li>
+        <li><a href="planners.php">Faridabad</a></li>
+        <li><a href="planners.php">Fatehpur</a></li>
+        <li><a href="planners.php">Fazilka</a></li>
+        <li><a href="planners.php">Gadag</a></li>
+        <li><a href="planners.php">Gadchiroli</a></li>
+        <li><a href="planners.php">Gaya</a></li>
+        <li><a href="planners.php">Ghaziabad</a></li>
+        <li><a href="planners.php">Giridih</a></li>
+        <li><a href="planners.php">Goa</a></li>
+        <li><a href="planners.php">Goalpara</a></li>
+        <li><a href="planners.php">Gwalior</a></li>
+        <li><a href="planners.php">Hailakandi</a></li>
+        <li><a href="planners.php">Hampi</a></li>
+        <li><a href="planners.php">Hapur</a></li>
+        <li><a href="planners.php">Haridwar</a></li>
+        <li><a href="planners.php">Hyderabad</a></li>
+        <li><a href="planners.php">Indore</a></li>
+        <li><a href="planners.php">Jabalpur</a></li>
+        <li><a href="planners.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">
