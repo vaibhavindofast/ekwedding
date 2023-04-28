@@ -88,7 +88,7 @@
             <i class="ic ic-IC_Venue"></i>
           </div>
           <h3>Venues</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-brd" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-brd" data-toggle="modal" href="#exampleModalsix">
           <div>
             <i class="ic ic-IC_BridalWear"></i>
           </div>
@@ -1601,6 +1601,83 @@
         <li><a href="planners.php">Indore</a></li>
         <li><a href="planners.php">Jabalpur</a></li>
         <li><a href="planners.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalsix" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="wear.php">Adilabad</a></li>
+        <li><a href="wear.php">Agar</a></li>
+        <li><a href="wear.php">Ahmedabad</a></li>
+        <li><a href="wear.php">Akola</a></li>
+        <li><a href="wear.php">Almora</a></li>
+        <li><a href="wear.php">Ampati</a></li>
+        <li><a href="wear.php">Amritsa</a></li>
+        <li><a href="wear.php">Badgam</a></li>
+        <li><a href="wear.php">Bagalkot</a></li>
+        <li><a href="wear.php">Bageshwar</a></li>
+        <li><a href="wear.php">Baksa</a></li>
+        <li><a href="wear.php">Balangir</a></li>
+        <li><a href="wear.php">Balod</a></li>
+        <li><a href="wear.php">Balrampur</a></li>
+        <li><a href="wear.php">Bandipora</a></li>
+        <li><a href="wear.php">Bareilly</a></li>
+        <li><a href="wear.php">Bastar</a></li>
+        <li><a href="wear.php">Bhopal</a></li>
+        <li><a href="wear.php">Cachar</a></li>
+        <li><a href="wear.php">Chamarajnagar</a></li>
+        <li><a href="wear.php">Chandel</a></li>
+        <li><a href="wear.php">Chandigarh</a></li>
+        <li><a href="wear.php">Chatra</a></li>
+        <li><a href="wear.php">Chirang</a></li>
+        <li><a href="wear.php">Chittoor</a></li>
+        <li><a href="wear.php">Churu</a></li>
+        <li><a href="wear.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="wear.php">Dahod</a></li>
+        <li><a href="wear.php">Daman</a></li>
+        <li><a href="wear.php">Darbhanga</a></li>
+        <li><a href="wear.php">Dausa</a></li>
+        <li><a href="wear.php">Delhi</a></li>
+        <li><a href="wear.php">Deogarh</a></li>
+        <li><a href="wear.php">Devbhoomi Dwarka</a></li>
+        <li><a href="wear.php">Dhanbad</a></li>
+        <li><a href="wear.php">Dumka</a></li>
+        <li><a href="wear.php">Etawah</a></li>
+        <li><a href="wear.php">Faizabad</a></li>
+        <li><a href="wear.php">Faridabad</a></li>
+        <li><a href="wear.php">Fatehpur</a></li>
+        <li><a href="wear.php">Fazilka</a></li>
+        <li><a href="wear.php">Gadag</a></li>
+        <li><a href="wear.php">Gadchiroli</a></li>
+        <li><a href="wear.php">Gaya</a></li>
+        <li><a href="wear.php">Ghaziabad</a></li>
+        <li><a href="wear.php">Giridih</a></li>
+        <li><a href="wear.php">Goa</a></li>
+        <li><a href="wear.php">Goalpara</a></li>
+        <li><a href="wear.php">Gwalior</a></li>
+        <li><a href="wear.php">Hailakandi</a></li>
+        <li><a href="wear.php">Hampi</a></li>
+        <li><a href="wear.php">Hapur</a></li>
+        <li><a href="wear.php">Haridwar</a></li>
+        <li><a href="wear.php">Hyderabad</a></li>
+        <li><a href="wear.php">Indore</a></li>
+        <li><a href="wear.php">Jabalpur</a></li>
+        <li><a href="wear.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">

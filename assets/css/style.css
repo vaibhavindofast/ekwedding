@@ -6301,10 +6301,19 @@ footer .widget-listing li {
   .copyrights-link {
     padding-top: 7px;
   }
+  .wear-banner{
+    background-position: center;
+  }
   .profile-detels-mehndi{
     display: none;
   }
   .Henna-banner{
+    height: auto !important;
+  }
+  .about-border-wear{
+    background-size: cover;
+    margin-top: 5px;
+    background-position: center;
     height: auto !important;
   }
   .mehndi-details-page-mobile-none{
@@ -7455,7 +7464,7 @@ padding: 0 !important;
 }
 .border-top-photographer{
   border-top: 1px solid #00000042;
-  margin-top: 133px;
+  margin-top: 148px;
 
 }
 .wide-tb-20{
@@ -7792,6 +7801,18 @@ font-weight: 600;
 .static-hero-s2 {
   margin-top: 66px !important;
 }
+.wear-banner .slider-1{
+ display: none;
+}
+.wear-banner .slider-3{
+  display: none;
+}
+.wear-banner .carousel{
+  width: 200px !important;
+}
+.bg-color-wear{
+  padding: 109px 0 0 0 !important;
+}
 .static-hero-s2 .static-hero-right{
   margin-bottom: 109px;
 }
@@ -7913,4 +7934,148 @@ font-weight: 600;
 .banner-img-planners-name h1{
   font-size: 30px;
   color: #fff;
+}
+
+
+.main {
+  
+  width: 100%;
+  margin: auto;
+
+  * {
+    transition: all .4s;
+  }
+  
+  .top_banner,
+  .bottom_banner {
+    text-align: center;
+    color: white;
+
+    a {
+      color: $secondary;
+    }
+  }
+
+  .main_content {
+    margin: 60px 0 40px;
+    column-gap: 20px;
+    width: 100%;
+    
+    .picture_wrapper {
+      margin-bottom: 20px;
+      
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        border-radius: 2px;
+      }
+    }
+  }
+}
+
+
+/* responsive */
+@media (min-width: 1200px) {
+  .main_content {
+    column-count: 4;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .main_content {
+    column-count: 3;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .main_content {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 575px) {
+  .main_content {
+    column-count: 1;
+    padding: 13px;
+  }
+}
+
+
+.wear-banner{
+  background-image: url(../images/new/wedding-wear/gallery/banner-1.jpg);
+  background-size: cover;
+  height: 500px;
+}
+.bg-color-wear{
+ height: 500px;
+ padding: 115px 0 0 0;
+}
+.wear-banner .carousel{
+  width: 220px;
+  margin-left: 66px;
+
+}
+.wear-banner .slider-1{
+  margin-left: 32px;
+}
+.wear-banner .slider-3{
+  margin-left: 100px;
+}
+.border-top-photographer .wear-banner img{
+  border-radius: 0 !important;
+}
+
+
+
+.wear-img::before {
+  content: "";
+    position: absolute;
+    left: -31px;
+    top: -32px;
+    right: -30px;
+    bottom: -31px;
+    background-image: url(../images/new/wedding-wear/gallery/profile-border-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.wear-img{
+  width: 100px !important;
+    height: 100px !important;
+}
+
+.wear-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 46px;
+    padding-bottom: 24px;
+}
+.wear-img img{
+  border-radius: 50px;
+}
+.wear-item h3{
+  padding-top: 20px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.about-border-wear{
+  background-image: url(../images/new/wedding-wear/gallery/about-border.png);
+  height: 297px;
+  background-size: cover;
+  margin-top: -5px;
+  padding: 26px 15px 10px 24px;
+  text-align: center;
+}
+.about-border-wear::before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  right: -64px;
+  width: 150px;
+  height: 180px;
+  background: url(../images/new/wedding-wear/gallery/rose.png) no-repeat;
+  z-index: 5;
 }
