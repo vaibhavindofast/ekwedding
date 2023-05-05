@@ -93,7 +93,7 @@
             <i class="ic ic-IC_BridalWear"></i>
           </div>
           <h3>Wedding Wear</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-inv" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-inv" data-toggle="modal" href="#exampleModalseven">
           <div>
             <i class="ic ic-IC_Invitation"></i>
           </div>
@@ -1678,6 +1678,82 @@
         <li><a href="wear.php">Indore</a></li>
         <li><a href="wear.php">Jabalpur</a></li>
         <li><a href="wear.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="exampleModalseven" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="invitation.php">Adilabad</a></li>
+        <li><a href="invitation.php">Agar</a></li>
+        <li><a href="invitation.php">Ahmedabad</a></li>
+        <li><a href="invitation.php">Akola</a></li>
+        <li><a href="invitation.php">Almora</a></li>
+        <li><a href="invitation.php">Ampati</a></li>
+        <li><a href="invitation.php">Amritsa</a></li>
+        <li><a href="invitation.php">Badgam</a></li>
+        <li><a href="invitation.php">Bagalkot</a></li>
+        <li><a href="invitation.php">Bageshwar</a></li>
+        <li><a href="invitation.php">Baksa</a></li>
+        <li><a href="invitation.php">Balangir</a></li>
+        <li><a href="invitation.php">Balod</a></li>
+        <li><a href="invitation.php">Balrampur</a></li>
+        <li><a href="invitation.php">Bandipora</a></li>
+        <li><a href="invitation.php">Bareilly</a></li>
+        <li><a href="invitation.php">Bastar</a></li>
+        <li><a href="invitation.php">Bhopal</a></li>
+        <li><a href="invitation.php">Cachar</a></li>
+        <li><a href="invitation.php">Chamarajnagar</a></li>
+        <li><a href="invitation.php">Chandel</a></li>
+        <li><a href="invitation.php">Chandigarh</a></li>
+        <li><a href="invitation.php">Chatra</a></li>
+        <li><a href="invitation.php">Chirang</a></li>
+        <li><a href="invitation.php">Chittoor</a></li>
+        <li><a href="invitation.php">Churu</a></li>
+        <li><a href="invitation.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="invitation.php">Dahod</a></li>
+        <li><a href="invitation.php">Daman</a></li>
+        <li><a href="invitation.php">Darbhanga</a></li>
+        <li><a href="invitation.php">Dausa</a></li>
+        <li><a href="invitation.php">Delhi</a></li>
+        <li><a href="invitation.php">Deogarh</a></li>
+        <li><a href="invitation.php">Devbhoomi Dwarka</a></li>
+        <li><a href="invitation.php">Dhanbad</a></li>
+        <li><a href="invitation.php">Dumka</a></li>
+        <li><a href="invitation.php">Etawah</a></li>
+        <li><a href="invitation.php">Faizabad</a></li>
+        <li><a href="invitation.php">Faridabad</a></li>
+        <li><a href="invitation.php">Fatehpur</a></li>
+        <li><a href="invitation.php">Fazilka</a></li>
+        <li><a href="invitation.php">Gadag</a></li>
+        <li><a href="invitation.php">Gadchiroli</a></li>
+        <li><a href="invitation.php">Gaya</a></li>
+        <li><a href="invitation.php">Ghaziabad</a></li>
+        <li><a href="invitation.php">Giridih</a></li>
+        <li><a href="invitation.php">Goa</a></li>
+        <li><a href="invitation.php">Goalpara</a></li>
+        <li><a href="invitation.php">Gwalior</a></li>
+        <li><a href="invitation.php">Hailakandi</a></li>
+        <li><a href="invitation.php">Hampi</a></li>
+        <li><a href="invitation.php">Hapur</a></li>
+        <li><a href="invitation.php">Haridwar</a></li>
+        <li><a href="invitation.php">Hyderabad</a></li>
+        <li><a href="invitation.php">Indore</a></li>
+        <li><a href="invitation.php">Jabalpur</a></li>
+        <li><a href="invitation.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">
