@@ -6298,6 +6298,28 @@ footer .widget-listing li {
   .copyrights {
     text-align: center;
   }
+  .choreographers-banner{
+    background-position: center;
+  }
+  .bg-color-choreographers{
+    height: 656px !important;
+  }
+  .video-slider-frame{
+    top: 18px !important;
+  }
+  .video-banner{
+    position: relative;
+    margin-top: 43px !important;
+    z-index: 11;
+    width: 285px !important;
+    margin-left: 30px !important;
+  }
+  .bg-color-choreographers .carousel {
+    width: 298px !important;
+    margin-left: 30px !important;
+    position: relative !important;
+    margin-top: 59px !important;
+}
   .copyrights-link {
     padding-top: 7px;
   }
@@ -8143,4 +8165,248 @@ font-weight: 600;
 .bg-color-invitation{
   height: 371px !important;
 }
+}
+.wpo-story-section .wpo-story-item{
+  display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 77px;
+}
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap{
+  position: relative;
+    z-index: 1;
+    -ms-flex-preferred-size: 60%;
+    flex-basis: 60%;
+    text-align: center;
+}
+
+@media (max-width: 1399px){
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap {
+    -ms-flex-preferred-size: 50%;
+    flex-basis: 50%;
+}
+}
+
+@media (max-width: 1399px){
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap .wpo-story-img{
+  width: 360px;
+    height: 360px;
+}
+
+}
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap .wpo-story-img{
+  margin-top: -180px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -37px;
+}
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap .wpo-story-img img{
+  border-radius: 50%;
+
+}
+.wpo-story-section .wpo-story-item .wpo-story-img-wrap .wpo-img-shape{
+  position: absolute;
+    width: 100%;
+    left: 0;
+    top: -23%;
+    z-index: -1;
+}
+.invitation-about-detail{
+  margin-top: 63px;
+}
+.choreographers-banner{
+  background-image: url(../images/new/choreographers/gallery/banner-bg.jpg);
+  background-size: cover !important;
+
+  
+}
+.bg-color-choreographers{
+height:550px;
+
+}
+.bg-color-choreographers .carousel{
+  width: 392px;
+  margin-left: 43px;
+  position: relative;
+  margin-top: 73px;
+}
+.slider-frame{
+  position: absolute;
+  
+  top: 43px;
+
+}
+.video-banner video{
+  height: auto;
+  width: 100%;
+}
+.video-slider-frame {
+  position: absolute;
+  top: 141px;
+}
+.video-banner{
+  position: relative;
+  margin-top: 174px;
+  z-index: 11;
+  width: 380px;
+  margin-left: 40px;
+}
+.choreographers-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 46px;
+    padding-bottom: 24px;
+}
+.choreographers-img img{
+  border-radius: 50px;
+}
+.choreographers-item h3{
+  padding-top: 20px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.choreographers-img::before {
+  content: "";
+    position: absolute;
+    left: -31px;
+    top: -29px;
+    right: -26px;
+    bottom: -34px;
+    background-image: url(../images/new/choreographers/gallery/f81cb76e1b89a8abb30652ae97c5eb12-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.choreographers-img{
+  width: 100px !important;
+    height: 100px !important;
+}
+
+.img-holder {
+  max-width: 285px;
+  border-radius: 175px 175px 0px 175px;
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  margin-left: auto;
+  margin-right: 50px;
+  z-index: 1;
+}
+.img-holder:before {
+  position: absolute;
+  left: 3%;
+  top: 3%;
+  width: 94%;
+  height: 94%;
+  content: "";
+  border: 1px solid #fff;
+  border-radius: 175px 175px 0px 175px;
+}
+.img-holder img {
+  border-radius: 175px 175px 0px 175px;
+}
+.img-holder .story-shape-img-1 {
+  position: absolute;
+  top: -80px;
+  left: -80px;
+  z-index: -1;
+}
+.img-holder .story-shape-img-1 img {
+  border-radius: 0;
+}
+.img-holder .story-shape-img-2 {
+  position: absolute;
+  bottom: -75px;
+  left: -85px;
+  z-index: -1;
+}
+.img-holder .story-shape-img-2 img {
+  border-radius: 0;
+}
+
+.catering-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 46px;
+    padding-bottom: 24px;
+}
+.catering-img img{
+  border-radius: 50px;
+}
+.catering-item h3{
+  padding-top: 30px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.catering-img::before {
+  content: "";
+    position: absolute;
+    left: -22px;
+    top: -26px;
+    right: -21px;
+    bottom: -25px;
+    background-image: url(../images/new/Caterers/gallery/profile-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.catering-img{
+  width: 100px !important;
+    height: 100px !important;
+}
+.Similar-shape-catering-1 {
+  top: 1;
+  width: 194px;
+  right: -24px;
+  margin-top: -57px;
+}
+.Similar-shape-catering-2 {
+  width: 199px;
+  left: -33px;
+  /* FONT-VARIANT: JIS04; */
+  margin-top: -59px;
+}
+.jewellery-item{
+  display: inline-block;
+    text-align: center;
+    width: 104px;
+    vertical-align: top;
+    margin-right: 46px;
+    padding-bottom: 24px;
+}
+.jewellery-img img{
+  border-radius: 50px;
+}
+.jewellery-item h3{
+  padding-top: 30px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.jewellery-img::before {
+  content: "";
+    position: absolute;
+    left: -24px;
+    top: -29px;
+    right: -26px;
+    bottom: -27px;
+    background-image: url(../images/new/jewellery/gallery/img-border-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.jewellery-img{
+  width: 100px !important;
+    height: 100px !important;
 }

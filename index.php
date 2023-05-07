@@ -98,7 +98,7 @@
             <i class="ic ic-IC_Invitation"></i>
           </div>
           <h3>Invitation Designers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-cho" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-cho" data-toggle="modal" href="#exampleModaleight">
           <div>
             <i class="ic ic-IC_Chorographer"></i>
           </div>
@@ -1687,6 +1687,7 @@
     </div>
   </div>
 </div>
+
 <!-- Modal -->
 <div class="modal fade" id="exampleModalseven" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
@@ -1754,6 +1755,83 @@
         <li><a href="invitation.php">Indore</a></li>
         <li><a href="invitation.php">Jabalpur</a></li>
         <li><a href="invitation.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModaleight" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="choreographers.php">Adilabad</a></li>
+        <li><a href="choreographers.php">Agar</a></li>
+        <li><a href="choreographers.php">Ahmedabad</a></li>
+        <li><a href="choreographers.php">Akola</a></li>
+        <li><a href="choreographers.php">Almora</a></li>
+        <li><a href="choreographers.php">Ampati</a></li>
+        <li><a href="choreographers.php">Amritsa</a></li>
+        <li><a href="choreographers.php">Badgam</a></li>
+        <li><a href="choreographers.php">Bagalkot</a></li>
+        <li><a href="choreographers.php">Bageshwar</a></li>
+        <li><a href="choreographers.php">Baksa</a></li>
+        <li><a href="choreographers.php">Balangir</a></li>
+        <li><a href="choreographers.php">Balod</a></li>
+        <li><a href="choreographers.php">Balrampur</a></li>
+        <li><a href="choreographers.php">Bandipora</a></li>
+        <li><a href="choreographers.php">Bareilly</a></li>
+        <li><a href="choreographers.php">Bastar</a></li>
+        <li><a href="choreographers.php">Bhopal</a></li>
+        <li><a href="choreographers.php">Cachar</a></li>
+        <li><a href="choreographers.php">Chamarajnagar</a></li>
+        <li><a href="choreographers.php">Chandel</a></li>
+        <li><a href="choreographers.php">Chandigarh</a></li>
+        <li><a href="choreographers.php">Chatra</a></li>
+        <li><a href="choreographers.php">Chirang</a></li>
+        <li><a href="choreographers.php">Chittoor</a></li>
+        <li><a href="choreographers.php">Churu</a></li>
+        <li><a href="choreographers.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="choreographers.php">Dahod</a></li>
+        <li><a href="choreographers.php">Daman</a></li>
+        <li><a href="choreographers.php">Darbhanga</a></li>
+        <li><a href="choreographers.php">Dausa</a></li>
+        <li><a href="choreographers.php">Delhi</a></li>
+        <li><a href="choreographers.php">Deogarh</a></li>
+        <li><a href="choreographers.php">Devbhoomi Dwarka</a></li>
+        <li><a href="choreographers.php">Dhanbad</a></li>
+        <li><a href="choreographers.php">Dumka</a></li>
+        <li><a href="choreographers.php">Etawah</a></li>
+        <li><a href="choreographers.php">Faizabad</a></li>
+        <li><a href="choreographers.php">Faridabad</a></li>
+        <li><a href="choreographers.php">Fatehpur</a></li>
+        <li><a href="choreographers.php">Fazilka</a></li>
+        <li><a href="choreographers.php">Gadag</a></li>
+        <li><a href="choreographers.php">Gadchiroli</a></li>
+        <li><a href="choreographers.php">Gaya</a></li>
+        <li><a href="choreographers.php">Ghaziabad</a></li>
+        <li><a href="choreographers.php">Giridih</a></li>
+        <li><a href="choreographers.php">Goa</a></li>
+        <li><a href="choreographers.php">Goalpara</a></li>
+        <li><a href="choreographers.php">Gwalior</a></li>
+        <li><a href="choreographers.php">Hailakandi</a></li>
+        <li><a href="choreographers.php">Hampi</a></li>
+        <li><a href="choreographers.php">Hapur</a></li>
+        <li><a href="choreographers.php">Haridwar</a></li>
+        <li><a href="choreographers.php">Hyderabad</a></li>
+        <li><a href="choreographers.php">Indore</a></li>
+        <li><a href="choreographers.php">Jabalpur</a></li>
+        <li><a href="choreographers.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">

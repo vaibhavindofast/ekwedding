@@ -79,22 +79,9 @@
 
 
 
-    <div class="col-lg-6 wpo-story-section">
-    <div class="wpo-story-item d-block">
-                        <div class="wpo-story-img-wrap">
-                            <div class="wpo-story-img wow zoomIn" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-name: zoomIn;">
-                            <img src="assets/images/new/invitation/gallery/3.jpg" alt="">
-                            </div>
-                            <div class="wpo-img-shape">
-                            <img src="assets/images/new/invitation/gallery/shape.png" alt="">
-                            </div>
-                        </div>
-                    
-                    </div>
-    </div>
 <div class="col-lg-6">
 
-<div class="decorators-details-top invitation-about-detail">
+<div class="decorators-details-top ">
 <div class="photo-details">
 
   <div class="row">
@@ -137,9 +124,13 @@
 </div>
 
 
+<div class="col-lg-6 text-center">
+   <img src="assets/images/new/jewellery/gallery/event_img.gif" alt="">
+    </div>
 
 </div>
 </div>
+
 
 
 
@@ -149,149 +140,144 @@
   <h2 style="margin-bottom:40px;">Photo Albums</h2>
     <div class="">
       
-        <a class="hm-vndr-icn cB-item invitation-item" id="category-pho" data-url="/Top Photos" href="#">
-          <div class="invitation-img">
-           <img src="assets/images/new/invitation/gallery/01.jpg" alt="">
+        <a class="hm-vndr-icn cB-item jewellery-item" id="category-pho" data-url="/Top Photos" href="#">
+          <div class="jewellery-img">
+           <img src="assets/images/new/jewellery/gallery/01.jpg" alt="">
           </div>
           <h3>Top Photos</h3>
-</a>        <a class="hm-vndr-icn cB-item invitation-item" id="category-mua" data-url="/Haldi Decor" href="#">
-          <div class="invitation-img">
-          <img src="assets/images/new/invitation/gallery/02.jpg" alt="">
+</a>        <a class="hm-vndr-icn cB-item jewellery-item" id="category-mua" data-url="/sohum creations" href="#">
+          <div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/02.jpg" alt="">
           </div>
-          <h3>Wedding Itineraries </h3>
-</a>        <a class="hm-vndr-icn cB-item invitation-item" id="category-dec" data-url="Bridal mehandi" href="#">
-          <div class="invitation-img">
-          <img src="assets/images/new/invitation/gallery/03.jpg" alt="">
+          <h3>Miscellaneous</h3>
+</a>        <a class="hm-vndr-icn cB-item jewellery-item" id="category-dec" data-url="Gowns" href="#">
+          <div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/03.jpg" alt="">
           </div>
-          <h3>Wedding Logos</h3>
-</a>        <a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Family Mehandi " href="#">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/04.jpg" alt="">
+          <h3> Bridal</h3>
+</a>        <a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/bridal " href="/#">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/04.jpg" alt="">
           </div>
-          <h3>Illustration Invites</h3>
+          <h3>Menu</h3>
 </a>      
-<a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Arabic Mehandi" href="#">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/05.jpg" alt="">
+<a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Groom" href="#">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/05.jpg" alt="">
           </div>
-          <h3>Traditional Invite</h3>
+          <h3>Catering Work collections</h3>
 </a>      
-<a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Sampel Mehandi" href="/# ">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/06.jpg" alt="">
+<a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Kuberan Ikat Saree " href="# ">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/06.jpg" alt="">
           </div>
-          <h3> Boxed Invite </h3>
+          <h3>Best services </h3>
 </a>
 
-<a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Leg mehandi " href="# ">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/07.jpg" alt="">
+<a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Banner shot " href="# ">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/07.jpg" alt="">
           </div>
-          <h3>Luxury unboxed invitation</h3>
+          <h3>Non veg </h3>
 </a>
 
-<a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Milan mehandi " href="#">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/08.jpg" alt="">
+<a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Velvet " href="#">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/08.jpg" alt="">
           </div>
-          <h3>Unboxed Invites </h3>
+          <h3>Food</h3>
 </a>
-
-<a class="hm-vndr-icn cB-item invitation-item" id="category-meh" data-url="/Milan mehandi " href="#">
-<div class="invitation-img">
-<img src="assets/images/new/invitation/gallery/09.jpg" alt="">
+<a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Designer Apparels " href="#">
+<div class="jewellery-img">
+          <img src="assets/images/new/jewellery/gallery/09.jpg" alt="">
           </div>
-          <h3>Offset cards</h3>
+          <h3>Caterers</h3>
 </a>
-
 
 
 
 
 </div>
+
   </div>
-</div>
 </div>
 
 
 <section class="pt-4 pb-4">
-<div class="about-shape">
-<img class="about-shape-1" src="assets/images/new/Decorators/right-1.png" alt="">
-<img class="about-shape-2" src="assets/images/new/Decorators/left-2.png" alt="">
-</div>
+
 <div class="container">
 <div class='list-group gallery'>
 	<div class="row">
 		
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-1.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-1.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-1.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-1.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-3.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-3.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-3.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-3.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-2.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-2.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-2.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-2.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-4.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-4.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-4.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-4.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-5.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-5.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-5.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-5.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-6.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-6.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-6.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-6.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-7.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-7.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-7.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-7.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-8.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-8.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-8.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-8.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-9.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-9.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-9.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-9.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-10.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-10.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-10.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-10.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-11.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-11.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-11.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-11.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/invitation/gallery/gallery-12.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/invitation/gallery/gallery-12.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-12.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-12.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
@@ -302,50 +288,25 @@
 </section>
 
 
-
-
 <section class="mb-5">
-
+<div class="about-shape ">
+<img class="Similar-shape-catering-1" src="assets/images/new/Caterers/gallery/ft-4.png" alt="">
+<img class="Similar-shape-catering-2" src="assets/images/new/Caterers/gallery/ft-6.png" alt="">
+</div>
 <div class="container">
 <div class="row">
-<div class="col-lg-12">
-<h2>Similar Wedding Invitations</h2>
-<p>These are Invitation Designers similar to ’Sneha Agarwal Designs’</p>
+<div class="col-lg-12 text-center">
+<h2>Similar Wedding Decorators</h2>
+<p>These are Decorators similar to ’URS events ’</p>
 </div>
 
 <div class="col-lg-4">
 <div class="photo-page">
-    <a href="invitation-detail.php">
-<img src="assets/images/new/invitation/1.jpg" alt="">
+    <a href="decorators-detail.php">
+<img src="assets/images/new/Decorators/1.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Perfect Invites</h5>
-<h6>Patna</h6>
-</div>
-<div class="col-3">
-<p><span><i class="fa fa-star"></i> 5.0</span></p>
-</div>
-</div>
-<div class="price">
-<div class="row">
-<div class="col-6">
-<h4>₹100 - 2,000</h4>
-</div>
-<div class="col-6">
-<p>Per Unboxed Card</p>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="col-lg-4">
-<div class="photo-page">
-<a href="invitation-detail.php">
-<img src="assets/images/new/invitation/2.jpg" alt="">
-<div class="row">
-<div class="col-9">
-<h5>Fairy Tail Crafts</h5>
+<h5>Creators Events</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
@@ -354,11 +315,11 @@
 </div>
 <div class="price">
 <div class="row">
-<div class="col-6">
-<h4>₹100 - 120</h4>
+<div class="col-4">
+<h4>₹80,000</h4>
 </div>
-<div class="col-6">
-<p>Per Unboxed Card</p>
+<div class="col-8">
+<p>For Standard Indoor Decor</p>
 </div>
 </div>
 </div>
@@ -367,24 +328,50 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="invitation-detail.php">
-<img src="assets/images/new/invitation/3.jpg" alt="">
+<a href="decorators-detail.php">
+<img src="assets/images/new/Decorators/2.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Sakshi Cards</h5>
+<h5>Bsk Flower Decoration</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
-<p><span><i class="fa fa-star"></i> 5.0</span></p>
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
 </div>
 </div>
 <div class="price">
 <div class="row">
-<div class="col-6">
-<h4>₹200 - 700</h4>
+<div class="col-4">
+<h4>₹70,999</h4>
 </div>
-<div class="col-6">
-<p>Per Boxed Card</p>
+<div class="col-8">
+<p>For Standard Indoor Decor</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="photo-page">
+<a href="decorators-detail.php">
+<img src="assets/images/new/Decorators/3.jpg" alt="">
+<div class="row">
+<div class="col-9">
+<h5>The Pink Knot Events</h5>
+<h6>Patna</h6>
+</div>
+<div class="col-3">
+<p><span><i class="fa fa-star"></i> 3.3</span></p>
+</div>
+</div>
+<div class="price">
+<div class="row">
+<div class="col-4">
+<h4>₹30,000</h4>
+</div>
+<div class="col-8">
+<p>For Standard Indoor Decor</p>
 </div>
 </div>
 </div>
@@ -430,6 +417,7 @@
         closeEffect: "none"
     });
 });
+
       </script>
 
 </body>
