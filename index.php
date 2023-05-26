@@ -103,12 +103,12 @@
             <i class="ic ic-IC_Chorographer"></i>
           </div>
           <h3>Choreographers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-cat" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-cat" data-toggle="modal" href="#exampleModalnine">
           <div>
             <i class="ic ic-IC_Caterer"></i>
           </div>
           <h3>Caterers</h3>
-</a>        <a class="hm-vndr-icn cB-item" id="category-jwl" data-toggle="modal" href="#exampleModalCenter">
+</a>        <a class="hm-vndr-icn cB-item" id="category-jwl" data-toggle="modal" href="#exampleModalten">
           <div>
             <i class="ic ic-IC_Jewellery"></i>
           </div>
@@ -1832,6 +1832,161 @@
         <li><a href="choreographers.php">Indore</a></li>
         <li><a href="choreographers.php">Jabalpur</a></li>
         <li><a href="choreographers.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalnine" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="catering.php">Adilabad</a></li>
+        <li><a href="catering.php">Agar</a></li>
+        <li><a href="catering.php">Ahmedabad</a></li>
+        <li><a href="catering.php">Akola</a></li>
+        <li><a href="catering.php">Almora</a></li>
+        <li><a href="catering.php">Ampati</a></li>
+        <li><a href="catering.php">Amritsa</a></li>
+        <li><a href="catering.php">Badgam</a></li>
+        <li><a href="catering.php">Bagalkot</a></li>
+        <li><a href="catering.php">Bageshwar</a></li>
+        <li><a href="catering.php">Baksa</a></li>
+        <li><a href="catering.php">Balangir</a></li>
+        <li><a href="catering.php">Balod</a></li>
+        <li><a href="catering.php">Balrampur</a></li>
+        <li><a href="catering.php">Bandipora</a></li>
+        <li><a href="catering.php">Bareilly</a></li>
+        <li><a href="catering.php">Bastar</a></li>
+        <li><a href="catering.php">Bhopal</a></li>
+        <li><a href="catering.php">Cachar</a></li>
+        <li><a href="catering.php">Chamarajnagar</a></li>
+        <li><a href="catering.php">Chandel</a></li>
+        <li><a href="catering.php">Chandigarh</a></li>
+        <li><a href="catering.php">Chatra</a></li>
+        <li><a href="catering.php">Chirang</a></li>
+        <li><a href="catering.php">Chittoor</a></li>
+        <li><a href="catering.php">Churu</a></li>
+        <li><a href="catering.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="catering.php">Dahod</a></li>
+        <li><a href="catering.php">Daman</a></li>
+        <li><a href="catering.php">Darbhanga</a></li>
+        <li><a href="catering.php">Dausa</a></li>
+        <li><a href="catering.php">Delhi</a></li>
+        <li><a href="catering.php">Deogarh</a></li>
+        <li><a href="catering.php">Devbhoomi Dwarka</a></li>
+        <li><a href="catering.php">Dhanbad</a></li>
+        <li><a href="catering.php">Dumka</a></li>
+        <li><a href="catering.php">Etawah</a></li>
+        <li><a href="catering.php">Faizabad</a></li>
+        <li><a href="catering.php">Faridabad</a></li>
+        <li><a href="catering.php">Fatehpur</a></li>
+        <li><a href="catering.php">Fazilka</a></li>
+        <li><a href="catering.php">Gadag</a></li>
+        <li><a href="catering.php">Gadchiroli</a></li>
+        <li><a href="catering.php">Gaya</a></li>
+        <li><a href="catering.php">Ghaziabad</a></li>
+        <li><a href="catering.php">Giridih</a></li>
+        <li><a href="catering.php">Goa</a></li>
+        <li><a href="catering.php">Goalpara</a></li>
+        <li><a href="catering.php">Gwalior</a></li>
+        <li><a href="catering.php">Hailakandi</a></li>
+        <li><a href="catering.php">Hampi</a></li>
+        <li><a href="catering.php">Hapur</a></li>
+        <li><a href="catering.php">Haridwar</a></li>
+        <li><a href="catering.php">Hyderabad</a></li>
+        <li><a href="catering.php">Indore</a></li>
+        <li><a href="catering.php">Jabalpur</a></li>
+        <li><a href="catering.php">Jaipur</a></li>
+     </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalten" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+      </div>
+      <div class="modal-body">
+     <ul id="myUL" style="max-height: 300px; overflow-y: scroll;">
+        <li><a href="jewellery.php">Adilabad</a></li>
+        <li><a href="jewellery.php">Agar</a></li>
+        <li><a href="jewellery.php">Ahmedabad</a></li>
+        <li><a href="jewellery.php">Akola</a></li>
+        <li><a href="jewellery.php">Almora</a></li>
+        <li><a href="jewellery.php">Ampati</a></li>
+        <li><a href="jewellery.php">Amritsa</a></li>
+        <li><a href="jewellery.php">Badgam</a></li>
+        <li><a href="jewellery.php">Bagalkot</a></li>
+        <li><a href="jewellery.php">Bageshwar</a></li>
+        <li><a href="jewellery.php">Baksa</a></li>
+        <li><a href="jewellery.php">Balangir</a></li>
+        <li><a href="jewellery.php">Balod</a></li>
+        <li><a href="jewellery.php">Balrampur</a></li>
+        <li><a href="jewellery.php">Bandipora</a></li>
+        <li><a href="jewellery.php">Bareilly</a></li>
+        <li><a href="jewellery.php">Bastar</a></li>
+        <li><a href="jewellery.php">Bhopal</a></li>
+        <li><a href="jewellery.php">Cachar</a></li>
+        <li><a href="jewellery.php">Chamarajnagar</a></li>
+        <li><a href="jewellery.php">Chandel</a></li>
+        <li><a href="jewellery.php">Chandigarh</a></li>
+        <li><a href="jewellery.php">Chatra</a></li>
+        <li><a href="jewellery.php">Chirang</a></li>
+        <li><a href="jewellery.php">Chittoor</a></li>
+        <li><a href="jewellery.php">Churu</a></li>
+        <li><a href="jewellery.php">Dadra and Nagar Haveli</a></li>
+        <li><a href="jewellery.php">Dahod</a></li>
+        <li><a href="jewellery.php">Daman</a></li>
+        <li><a href="jewellery.php">Darbhanga</a></li>
+        <li><a href="jewellery.php">Dausa</a></li>
+        <li><a href="jewellery.php">Delhi</a></li>
+        <li><a href="jewellery.php">Deogarh</a></li>
+        <li><a href="jewellery.php">Devbhoomi Dwarka</a></li>
+        <li><a href="jewellery.php">Dhanbad</a></li>
+        <li><a href="jewellery.php">Dumka</a></li>
+        <li><a href="jewellery.php">Etawah</a></li>
+        <li><a href="jewellery.php">Faizabad</a></li>
+        <li><a href="jewellery.php">Faridabad</a></li>
+        <li><a href="jewellery.php">Fatehpur</a></li>
+        <li><a href="jewellery.php">Fazilka</a></li>
+        <li><a href="jewellery.php">Gadag</a></li>
+        <li><a href="jewellery.php">Gadchiroli</a></li>
+        <li><a href="jewellery.php">Gaya</a></li>
+        <li><a href="jewellery.php">Ghaziabad</a></li>
+        <li><a href="jewellery.php">Giridih</a></li>
+        <li><a href="jewellery.php">Goa</a></li>
+        <li><a href="jewellery.php">Goalpara</a></li>
+        <li><a href="jewellery.php">Gwalior</a></li>
+        <li><a href="jewellery.php">Hailakandi</a></li>
+        <li><a href="jewellery.php">Hampi</a></li>
+        <li><a href="jewellery.php">Hapur</a></li>
+        <li><a href="jewellery.php">Haridwar</a></li>
+        <li><a href="jewellery.php">Hyderabad</a></li>
+        <li><a href="jewellery.php">Indore</a></li>
+        <li><a href="jewellery.php">Jabalpur</a></li>
+        <li><a href="jewellery.php">Jaipur</a></li>
      </ul>
       </div>
       <div class="modal-footer">

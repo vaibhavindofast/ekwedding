@@ -159,26 +159,26 @@
 <div class="jewellery-img">
           <img src="assets/images/new/jewellery/gallery/04.jpg" alt="">
           </div>
-          <h3>Menu</h3>
+          <h3>Royal Heritage</h3>
 </a>      
 <a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Groom" href="#">
 <div class="jewellery-img">
           <img src="assets/images/new/jewellery/gallery/05.jpg" alt="">
           </div>
-          <h3>Catering Work collections</h3>
+          <h3>Men's collection</h3>
 </a>      
 <a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Kuberan Ikat Saree " href="# ">
 <div class="jewellery-img">
           <img src="assets/images/new/jewellery/gallery/06.jpg" alt="">
           </div>
-          <h3>Best services </h3>
+          <h3>Tamanna </h3>
 </a>
 
 <a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Banner shot " href="# ">
 <div class="jewellery-img">
           <img src="assets/images/new/jewellery/gallery/07.jpg" alt="">
           </div>
-          <h3>Non veg </h3>
+          <h3>Antique</h3>
 </a>
 
 <a class="hm-vndr-icn cB-item jewellery-item" id="category-meh" data-url="/Velvet " href="#">
@@ -210,74 +210,74 @@
 	<div class="row">
 		
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-1.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-1.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-1.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-1.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-3.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-3.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-3.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-3.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-2.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-2.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-2.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-2.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-4.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-4.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-4.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-4.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-5.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-5.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-5.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-5.jpg" />
                    
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-6.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-6.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-6.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-6.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-7.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-7.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-7.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-7.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-8.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-8.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-8.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-8.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-9.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-9.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-9.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-9.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-10.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-10.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-10.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-10.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-11.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-11.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-11.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-11.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/Caterers/gallery/gallery-12.jpg">
-                    <img class="img-responsive" alt="" src="assets/images/new/Caterers/gallery/gallery-12.jpg" />
+                <a class="thumbnail fancybox" rel="ligthbox" href="assets/images/new/jewellery/gallery/gallery-12.jpg">
+                    <img class="img-responsive" alt="" src="assets/images/new/jewellery/gallery/gallery-12.jpg" />
                     
                 </a>
             </div> <!-- col-6 / end -->
@@ -289,38 +289,33 @@
 
 
 <section class="mb-5">
-<div class="about-shape ">
-<img class="Similar-shape-catering-1" src="assets/images/new/Caterers/gallery/ft-4.png" alt="">
-<img class="Similar-shape-catering-2" src="assets/images/new/Caterers/gallery/ft-6.png" alt="">
-</div>
+
 <div class="container">
 <div class="row">
 <div class="col-lg-12 text-center">
-<h2>Similar Wedding Decorators</h2>
-<p>These are Decorators similar to ’URS events ’</p>
+<h2>Similar Wedding Jewellery</h2>
+<p>These are Jewellery similar to ’AAYRA Jewels’</p>
 </div>
 
 <div class="col-lg-4">
 <div class="photo-page">
-    <a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/1.jpg" alt="">
+    <a href="jewellery-detail.php">
+<img src="assets/images/new/jewellery/1.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Creators Events</h5>
+<h5>Joyalukkas</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
-<p><span><i class="fa fa-star"></i> 3.3</span></p>
+<p><span><i class="fa fa-star"></i> 5.0</span></p>
 </div>
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹80,000</h4>
+<div class="col-12">
+<h4>₹ On Request</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
-</div>
+
 </div>
 </div>
 </a>
@@ -328,11 +323,11 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/2.jpg" alt="">
+<a href="jewellery-detail.php">
+<img src="assets/images/new/jewellery/2.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Bsk Flower Decoration</h5>
+<h5>Orra Fine Jewellery</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
@@ -341,12 +336,10 @@
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹70,999</h4>
+<div class="col-12">
+<h4>₹ On Request</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
-</div>
+
 </div>
 </div>
 </a>
@@ -354,25 +347,23 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/3.jpg" alt="">
+<a href="jewellery-detail.php">
+<img src="assets/images/new/jewellery/3.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>The Pink Knot Events</h5>
+<h5>Ekansh Jewels</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
-<p><span><i class="fa fa-star"></i> 3.3</span></p>
+<p><span><i class="fa fa-star"></i> 5.0</span></p>
 </div>
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹30,000</h4>
+<div class="col-12">
+<h4>₹ On Request</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
-</div>
+
 </div>
 </div>
 </a>

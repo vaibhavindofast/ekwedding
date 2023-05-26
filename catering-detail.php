@@ -47,60 +47,59 @@
 
 
     <section class=" pb-20 border-top-photographer">
-        <div class="invitation-banner">
-            <div class="bg-color-invitation">
+        <div class="catering-banner">
+            <div class="bg-color-catering">
 <div class="container">
 <div class="row">
-<div class="col-lg-3"></div>
-<div class="col-lg-6">
-<div id="carouselExampleSlidesOnly" class="carousel slide invitation-slider" data-ride="carousel"  data-interval="50000">
+    
+<div class="col-lg-4">
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/new/invitation/gallery/wear-detail-2.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/images/new/Caterers/gallery/slider-1.jpg" alt="First slide">
     </div>
-  <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/new/invitation/gallery/wear-detail-1.jpg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/new/invitation/gallery/wear-detail-3.jpg" alt="Third slide">
-    </div>  
+ <div class="carousel-item">
+      <img class="d-block w-100" src="assets/images/new/Caterers/gallery/slider-2.jpg" alt="Second slide">
+    </div> 
+    <div class="carousel-item ">
+      <img class="d-block w-100" src="assets/images/new/Caterers/gallery/slider-3.jpg" alt="Third slide">
+    </div> 
 </div>
 </div>
+<div class="slider-frame">
+  <img src="assets/images/new/Caterers/gallery/slider-frem.png" alt="">
 </div>
-<div class="col-lg-3"></div>
+</div>
+<div class="col-lg-5">
+  <div class="video-banner">
+<video  controls autoplay>
+  <source src="assets/images/new/Caterers/gallery/catering.mp4" type="video/mp4">
+
+</video>
+</div>
+<div class="video-slider-frame">
+  <img src="assets/images/new/choreographers/gallery/video-fram.jpg" alt="">
+</div>
+</div>
+<div class="col-lg-1"></div>
 </div>
 </div>
 </div>
 </div>
 </section>
 
-<div class="container pt-30">
+<div class="container">
 <div class="row" >
 
-
-
-    <div class="col-lg-6 wpo-story-section">
-    <div class="wpo-story-item d-block">
-                        <div class="wpo-story-img-wrap">
-                            <div class="wpo-story-img wow zoomIn" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-name: zoomIn;">
-                            <img src="assets/images/new/invitation/gallery/3.jpg" alt="">
-                            </div>
-                            <div class="wpo-img-shape">
-                            <img src="assets/images/new/invitation/gallery/shape.png" alt="">
-                            </div>
-                        </div>
-                    
-                    </div>
-    </div>
 <div class="col-lg-6">
 
-<div class="decorators-details-top invitation-about-detail">
+<div class="decorators-details-top catering-about-detail">
 <div class="photo-details">
 
   <div class="row">
 <div class="col-8">
-<h2>Iktaara</h2>
-<p>Wedding Invitation in Patna</p>
+<h2>Mariya Caterers</h2>
+<p>Wedding Caterer in Mumbai</p>
 </div>
 <div class="col-4">
 <p><span><i class="fa fa-star"></i> 4.3 (0)</span></p>
@@ -110,8 +109,8 @@
   <div class="photo-details-amount">
 <div class="row">
 <div class="col-12">
-<h4>₹ 800 - 2000</h4>
-<p>Per Boxed card - min. 100 cards (See Full Pricelist)</p>
+<h4>₹ 200</h4>
+<p>Per Veg Plate starting price (See Full Pricelist)</p>
 </div>
 </div>
   </div> 
@@ -136,7 +135,15 @@
         </div>
 </div>
 
-
+<div class="col-lg-6">
+    <div class="round-img">
+<div class="Card-3">
+		<div>
+		
+		</div>
+	</div>
+    </div>
+  </div>
 
 </div>
 </div>
@@ -299,37 +306,47 @@
 
 
 <section class="mb-5">
-<div class="about-shape ">
+<div class="Card">
+		<div>
+			
+		</div>
+	</div>
+    <div class="Card-2">
+		<div>
+		
+		</div>
+	</div>
+<!-- <div class="about-shape ">
 <img class="Similar-shape-catering-1" src="assets/images/new/Caterers/gallery/ft-4.png" alt="">
 <img class="Similar-shape-catering-2" src="assets/images/new/Caterers/gallery/ft-6.png" alt="">
-</div>
+</div> -->
 <div class="container">
 <div class="row">
 <div class="col-lg-12 text-center">
-<h2>Similar Wedding Decorators</h2>
-<p>These are Decorators similar to ’URS events ’</p>
+<h2>Similar Wedding Caterers</h2>
+<p>These are Caterers similar to ’Eaternet Caterers’</p>
 </div>
 
 <div class="col-lg-4">
 <div class="photo-page">
-    <a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/1.jpg" alt="">
+    <a href="catering-detail.php">
+<img src="assets/images/new/Caterers/1.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Creators Events</h5>
+<h5>Jay Catrering Services</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
-<p><span><i class="fa fa-star"></i> 3.3</span></p>
+<p><span><i class="fa fa-star"></i> 5.0</span></p>
 </div>
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹80,000</h4>
+<div class="col-3">
+<h4>₹400</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
+<div class="col-9">
+<p>Per Veg Plate starting price</p>
 </div>
 </div>
 </div>
@@ -338,11 +355,11 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/2.jpg" alt="">
+<a href="catering-detail.php">
+<img src="assets/images/new/Caterers/2.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>Bsk Flower Decoration</h5>
+<h5>Shlok Caterers</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
@@ -351,11 +368,11 @@
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹70,999</h4>
+<div class="col-3">
+<h4>₹500</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
+<div class="col-9">
+<p>Per Veg Plate starting price</p>
 </div>
 </div>
 </div>
@@ -364,24 +381,24 @@
 </div>
 <div class="col-lg-4">
 <div class="photo-page">
-<a href="decorators-detail.php">
-<img src="assets/images/new/Decorators/3.jpg" alt="">
+<a href="catering-detail.php">
+<img src="assets/images/new/Caterers/3.jpg" alt="">
 <div class="row">
 <div class="col-9">
-<h5>The Pink Knot Events</h5>
+<h5>Vijay Sharma Catering</h5>
 <h6>Patna</h6>
 </div>
 <div class="col-3">
-<p><span><i class="fa fa-star"></i> 3.3</span></p>
+<p><span><i class="fa fa-star"></i> 5.0</span></p>
 </div>
 </div>
 <div class="price">
 <div class="row">
-<div class="col-4">
-<h4>₹30,000</h4>
+<div class="col-3">
+<h4>₹300</h4>
 </div>
-<div class="col-8">
-<p>For Standard Indoor Decor</p>
+<div class="col-9">
+<p>Per Veg Plate starting price</p>
 </div>
 </div>
 </div>

@@ -6304,6 +6304,12 @@ footer .widget-listing li {
   .bg-color-choreographers{
     height: 656px !important;
   }
+  .round-img{
+    margin-right: 0px !important;
+  }
+  .bg-color-catering {
+    height: 856px !important;
+  }
   .video-slider-frame{
     top: 18px !important;
   }
@@ -6311,7 +6317,7 @@ footer .widget-listing li {
     position: relative;
     margin-top: 43px !important;
     z-index: 11;
-    width: 285px !important;
+    width: 335px !important;
     margin-left: 30px !important;
   }
   .bg-color-choreographers .carousel {
@@ -8409,4 +8415,176 @@ height:550px;
 .jewellery-img{
   width: 100px !important;
     height: 100px !important;
+}
+
+
+
+
+
+
+.Card{
+  position: absolute;
+	text-align:center;
+  width: 174px;
+  height: 160px;
+	border-radius:74% 82% 70% 88%;
+	display:table;
+	padding:20px;
+	cursor:pointer;
+	z-index:1;
+	transition:.5s;
+	color:#227093;
+  margin-top: -43px;
+}
+.Card:before{
+	content:'';
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	z-index:-1;
+	animation:RotateDiv 5s linear infinite;
+}
+.Card:before{
+    background-image: url(../images/new/Caterers/gallery/ft-4.png);
+    background-size: cover;
+	animation-delay:0s;
+	transition:.5s;
+}
+
+.Card div{
+	display:table-cell;
+	vertical-align:middle;
+}
+
+@keyframes RotateDiv{
+	0%{
+		transform:rotate(0deg);
+	}
+	100%{
+		transform:rotate(360deg);
+	}
+}
+
+
+.Card-2{
+	position:absolute;
+	text-align:center;
+  width: 174px;
+  height: 160px;
+	border-radius:74% 82% 70% 88%;
+	display:table;
+	padding:20px;
+	cursor:pointer;
+	z-index:1;
+	transition:.5s;
+	color:#227093;
+
+  margin-top: -43px;
+}
+.Card-2:before
+{
+	content:'';
+	position:absolute;
+	top:0px;
+  left: 1173px;
+	width:100%;
+	height:100%;
+	z-index:-1;
+	animation:RotateDiv 5s linear infinite;
+}
+.Card-2:before{
+    background-image: url(../images/new/Caterers/gallery/ft-6.png);
+    background-size: cover;
+	animation-delay:0s;
+	transition:.5s;
+}
+
+.Card-2 div{
+	display:table-cell;
+	vertical-align:middle;
+}
+
+@keyframes RotateDiv{
+	0%{
+		transform:rotate(0deg);
+	}
+	100%{
+		transform:rotate(360deg);
+	}
+}
+
+.Card-3{
+	position:absolute;
+	text-align:center;
+  width: 249px;
+  height: 230px;
+	border-radius:74% 82% 70% 88%;
+	display:table;
+	padding:20px;
+	cursor:pointer;
+	z-index:1;
+	transition:.5s;
+	color:#227093;
+  margin-top: 43px;
+}
+.Card-3:before
+{
+	content:'';
+	position:absolute;
+	top:0px;
+  left: 23px;
+	width:100%;
+	height:100%;
+
+	animation:RotateDiv 5s linear infinite;
+}
+.Card-3 img{
+  width: 100px;
+}
+.Card-3:before{
+    background-image: url(../images/new/Caterers/gallery/ft-4.png);
+    background-size: cover;
+	animation-delay:0s;
+	transition:.5s;
+}
+
+.Card-3 div{
+	display:table-cell;
+	vertical-align:middle;
+  
+}
+.round-img{
+  background-image: url(../images/new/Caterers/gallery/round-img.png);
+  background-size: cover;
+  height: 319px;
+    margin-top: 33px;
+    margin-left: 50px;
+    margin-right: -121px ;
+}
+
+@keyframes RotateDiv{
+	0%{
+		transform:rotate(0deg);
+	}
+	100%{
+		transform:rotate(360deg);
+	}
+}
+
+.catering-banner{
+  background-image: url(../images/new/Caterers/gallery/slider-banner-2.jpg);
+    background-size: cover !important;
+}
+.bg-color-catering {
+  height: 623px;
+}
+.bg-color-catering .carousel{
+  margin-top: 67px;
+  margin-left: 34px;
+  margin-right: 8px;
+}
+.catering-about-detail{
+  margin-top: 46px;
 }
